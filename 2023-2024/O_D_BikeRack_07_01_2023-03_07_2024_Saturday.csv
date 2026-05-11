@@ -1,0 +1,10 @@
+ROUTE,COUNT
+3B,1
+O_D,Block,Bus,Trip Start Stop ID,Trip Start Location,Trip End Stop ID,Trip End Location,Number of O_D Observations
+,,,,,,,
+786292-785809,2853,903,786292,RIVERMONT AVE. & VISTA AVE.,785809,KEMPER STREET TRANSFER STATI,1
+OD Value,Route,Route Name,Block,Trip Date,Trip,Direction,Bus,Bike Rack Open,Bike Rack Closed,Trip Start Stop ID,Trip Start Location,Trip End Stop ID,Trip End Location,Trip Time,Slot
+,,,,,,,,,,,,,,,
+786292-785809,302,3B,2853  ,2023-10-21,1210,0,903,12:15:45,12:36:39,786292,RIVERMONT AVE. & VISTA AVE.     ,785809,KEMPER STREET TRANSFER STATI    ,20.90,BIKE RACK
+ROUTE,COUNT
+3B,1

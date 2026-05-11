@@ -1,0 +1,651 @@
+Day of Week,Route,Direction,Stop ID,Stop Seq ID,Stop Name,Total On,Total Off,Total Activity,Cumulative Load,Wheelchair
+,,,,,,,,,,
+Sunday,1A,Outbound,785809,1,Kemper Street Transfer Center,40,40,80,56,4,37.408105,-79.157322
+Sunday,1A,Outbound,786107,2,Kemper and 13th St,1,1,2,56,0,37.403339,-79.154050
+Sunday,1A,Outbound,785812,3,15Th St. & Buchanan St. (Outbound),1,1,2,56,0,37.402122,-79.151860
+Sunday,1A,Outbound,785813,4,15Th St. & Pierce St. (Outbound),2,2,4,55,0,37.402707,-79.150791
+Sunday,1A,Outbound,786018,5,Fillmore St. (Southbound Corner Of 16th St.),0,0,1,56,0,37.402600,-79.149228
+Sunday,1A,Outbound,785816,6,16Th St.& Floyd St. (Outbound),3,4,7,56,0,37.402937,-79.148217
+Sunday,1A,Outbound,785815,7,16th St. & Wise St. (Outbound),2,1,3,57,0,37.403425,-79.147370
+Sunday,1A,Outbound,785819,8,16th St. & Taylor St. (Outbound),2,3,4,56,0,37.403967,-79.146402
+Sunday,1A,Outbound,785818,9,16th St. & Monroe St. (Outbound),2,2,4,56,0,37.404478,-79.145508
+Sunday,1A,Outbound,785817,10,16th St. & Grace St. (Outbound),1,3,4,55,0,37.405417,-79.143921
+Sunday,1A,Outbound,786081,11,Grace St. (Southbound Corner Of 17Th St.),2,2,4,56,0,37.405054,-79.143657
+Sunday,1A,Outbound,786082,12,Grace St. (Southbound Corner Of Knight St.),3,2,5,57,1,37.403992,-79.143705
+Sunday,1A,Outbound,786076,13,Grace St. (Eastbound Across From Locust St.),1,0,2,58,0,37.403341,-79.142079
+Sunday,1A,Outbound,786078,14,Grace St. (Eastbound Before Robins Rd.),5,7,11,57,0,37.402715,-79.140003
+Sunday,1A,Outbound,786409,15,Tritek/KDC One,0,0,0,10,0,37.399697,-79.142526
+Sunday,1A,Outbound,786077,16,Grace St. (Eastbound Across Street From Maple St.),0,0,0,56,0,37.402142,-79.138497
+Sunday,1A,Outbound,786079,17,Grace St. (Eastbound Corner Of Florida Ave.),1,2,3,57,0,37.401360,-79.137286
+Sunday,1A,Outbound,786023,18,Florida Ave. (Northbound Corner Of Poplar St.),1,1,2,57,0,37.402442,-79.136861
+Sunday,1A,Outbound,786282,19,Poplar St. (Eastbound Across Street From Buena Vista St.),2,1,3,58,0,37.402234,-79.135392
+Sunday,1A,Outbound,785886,20,Buena Vista St. (Eastbound Corner Of Tulip St.),2,3,5,58,0,37.402805,-79.133881
+Sunday,1A,Outbound,785885,21,Buena Vista St. (Eastbound Corner Of Main St.),0,0,0,58,0,37.403625,-79.132450
+Sunday,1A,Outbound,786180,22,Main St. (Westbound Across From Oak St.),0,0,0,58,0,37.404658,-79.133121
+Sunday,1A,Outbound,786182,23,Main St. (Westbound Corner Of Ruby St.),1,0,1,59,0,37.406008,-79.134350
+Sunday,1A,Outbound,786181,24,Main St. (Westbound Corner Of Pine St.),1,0,1,59,0,37.406965,-79.135181
+Sunday,1A,Outbound,786173,25,Main St. (Corner Of Pearl St.),0,0,0,59,0,37.409636,-79.137567
+Sunday,1A,Outbound,786183,26,Main St. (Westbound Corner Of Washington St.),2,1,3,58,0,37.410470,-79.138284
+Sunday,1A,Outbound,785968,27,Commerce St. (Westbound Craddock Terry Parking Lot),0,1,2,57,0,37.411091,-79.138279
+Sunday,1A,Outbound,785966,28,Commerce St. (Westbound Corner Of 10th St.),2,3,4,56,0,37.414399,-79.140427
+Sunday,1A,Outbound,785967,29,Commerce St. (Westbound Corner Of 10th St.),1,1,1,56,0,37.415935,-79.141794
+Sunday,1A,Outbound,786174,30,7th St. & Main St.,8,3,11,62,0,37.417066,-79.144170
+Sunday,1A,Outbound,786009,31,Fifth St. (Westbound Corner Of Church St.),1,1,1,62,0,37.417539,-79.146487
+Sunday,1A,Outbound,786010,32,Fifth St. (Westbound Corner Of Clay St.),2,3,5,62,0,37.416697,-79.147922
+Sunday,1A,Outbound,786012,33,Fifth St. (Westbound Corner Of Madison St.),8,10,18,61,0,37.415984,-79.149220
+Sunday,1A,Outbound,786005,34,Federal St. (Westbound Corner Of 4th St.),4,6,10,60,0,37.415827,-79.151294
+Sunday,1A,Outbound,786004,35,Federal St. (Westbound Corner Of 2nd St.),0,0,0,61,0,37.417495,-79.152791
+Sunday,1A,Outbound,786003,36,Federal St. (Westbound Corner Of 1St St. Across From True Holiness Church Of The Lord Jesus Christ),1,1,2,61,0,37.418655,-79.153826
+Sunday,1A,Outbound,786002,37,Federal St. (Tinbridge Manor Stop Where It Turns Into Hollins Mill Rd. ),8,8,17,63,1,37.419869,-79.155127
+Sunday,1A,Outbound,2501911,38,Jackson Street and Garland Street,2,3,5,62,0,37.418650,-79.155372
+Sunday,1A,Outbound,2501912,39,Jackson Street and 3rd Street,0,0,0,62,0,37.416455,-79.153343
+Sunday,1A,Outbound,786000,40,Federal St. (Eastbound Corner Of 3rd St.),0,0,0,60,1,37.416762,-79.152282
+Sunday,1A,Outbound,788315,41,Fifth St. (Eastbound Corner Of Wise St.),0,0,0,0,0,37.412407,-79.155364
+Sunday,1A,Outbound,786014,41,Fifth St. (Eastbound Corner Of Polk St.),0,0,0,2,0,37.413913,-79.152626
+Sunday,1A,Outbound,786006,41,Fereral St. (Eastbound Corner Where Roundabout Is),2,1,3,62,0,37.415468,-79.151131
+Sunday,1A,Outbound,785987,41,Eighth Street (Outbound Corner Of Wise St.),0,0,0,1,0,37.410008,-79.153161
+Sunday,1A,Outbound,785980,41,Eighth St. (Westbound Corner Of Taylor St.),0,0,0,3,0,37.410508,-79.152408
+Sunday,1A,Outbound,2332129,42,Fifth St. (INBOUND Corner of Polk St.),2,5,7,59,0,37.413948,-79.152818
+Sunday,1A,Outbound,786015,43,Fifth St. (Westbound Corner Of Wise St.),0,0,0,58,0,37.412658,-79.155141
+Sunday,1A,Outbound,786011,44,Fifth St. (Westbound Corner Of Fillmore St.),0,1,1,57,0,37.411602,-79.157037
+Sunday,1A,Outbound,785940,46,Chambers St. (Northbound Corner Of 5th St.),1,0,1,44,0,37.410387,-79.159824
+Sunday,1A,Outbound,785939,47,Chambers St. (Northbound Corner Of 2nd St.),0,0,0,44,0,37.412664,-79.161319
+Sunday,1A,Outbound,785938,48,Chambers St. (Northbound Corner Of 1st St.),3,4,7,43,2,37.414495,-79.161195
+Sunday,1A,Outbound,785941,49,Chambers St. (Northbound Hunt St. Dearington Apartments),2,1,3,45,0,37.416398,-79.162925
+Sunday,1A,Outbound,785942,50,Chambers St. (Northbound Lovell St. Dearington Apartments),0,0,1,45,0,37.417322,-79.163766
+Sunday,1A,Outbound,785943,51,Chambers St. (Northbound Pulaski St. Dearington Apartments),3,2,5,45,0,37.418503,-79.164202
+Sunday,1A,Outbound,785936,52,Chambers St. (Lovell St. Dearington Apartments),2,1,3,47,0,37.417888,-79.163143
+Sunday,1A,Outbound,786284,53,Pulaski St. (Hunt St. Dearington Apartments),2,1,3,47,0,37.417088,-79.162422
+Sunday,1A,Outbound,785930,54,Caroline St. (Westbound Corner Of Stoneridge St.),0,0,0,49,0,37.414559,-79.162465
+Sunday,1A,Outbound,785929,55,Caroline St. (Westbound Corner Of Smythe St.),2,1,3,50,0,37.413596,-79.164147
+Sunday,1A,Outbound,786105,56,Hillcrest Ave. (Westbound Corner Of Page St.),0,0,0,50,0,37.412150,-79.166352
+Sunday,1A,Outbound,786253,57,Page St. (Northbound Corner Of Atherholt Rd.),0,0,0,50,0,37.413341,-79.169678
+Sunday,1A,Outbound,786255,58,Page St. (Westbound Past Atherholt Rd. Toward Lynchburg General Main Campus),0,0,0,50,0,37.413755,-79.170577
+Sunday,1A,Outbound,786254,59,Page St. (Northbound Corner Of Tate Springs Rd.),0,0,1,49,0,37.414456,-79.171339
+Sunday,1A,Outbound,786390,60,Thomson Dr. (Lynchburg General Hospital Main Stop),3,5,8,48,0,37.415886,-79.172484
+Sunday,1A,Outbound,786383,61,Tate Springs Rd. (Westbound Corner Of Thomson Dr.),0,0,0,48,0,37.414386,-79.172054
+Sunday,1A,Outbound,786381,62,Tate Springs Rd. (Westbound Central Virginia Physicians),1,0,2,50,0,37.413892,-79.173390
+Sunday,1A,Outbound,786159,63,Langhorne. Sq. (Jefferson House),2,2,4,23,0,37.414597,-79.174826
+Sunday,1A,Outbound,786382,63,Tate Springs Rd. (Westbound Corner Of Langhorne Sq.),1,3,4,47,0,37.413732,-79.174389
+Sunday,1A,Outbound,786380,64,Tate Springs Rd. (Southbound Across St. From Landover Pl.),1,1,1,47,0,37.412712,-79.176684
+Sunday,1A,Outbound,786379,65,Tate Springs Rd. (Southbound Across From Yorktown Ave.),1,0,2,48,0,37.412011,-79.177468
+Sunday,1A,Outbound,786376,66,Tate Springs Rd. (Mcgurk House Stop),3,1,4,25,0,37.410183,-79.179814
+Sunday,1A,Outbound,786377,67,Tate Springs Rd. (Northbound Before Holy Cross School),0,0,0,26,0,37.411292,-79.177939
+Sunday,1A,Outbound,786474,68,Yorktown Ave. (Langview Apartments),1,1,2,50,0,37.411083,-79.175953
+Sunday,1A,Outbound,786473,69,Yorktown Ave. (Langview Apartments Second Stop),3,1,5,53,0,37.410540,-79.174541
+Sunday,1A,Outbound,786475,70,Yorktown Ave. (Westbound Corner Of Atherholt Rd.),0,0,0,54,0,37.410110,-79.173420
+Sunday,1A,Outbound,785832,71,Atherholt Rd. (Westbound New Surgery Center),0,0,0,56,0,37.408498,-79.177082
+Sunday,1A,Outbound,785827,72,Atherholt Rd. (Culdesac New Orthopedic Center),0,0,0,55,0,37.407781,-79.178222
+Sunday,1A,Outbound,785830,73,Atherholt Rd. (Eastbound New Doctor"s Office Across From Surgery Center),0,0,0,56,0,37.408142,-79.177442
+Sunday,1A,Outbound,785831,74,Atherholt Rd. (Eastbound New Doctor"s Office Next To Piedmont Eye Center),1,1,1,56,0,37.408985,-79.175899
+Sunday,1A,Outbound,785828,75,Atherholt Rd. (Eastbound Across St. From Cvc Next To Lawyers Offices Parking Lot),4,1,6,58,0,37.410973,-79.171943
+Sunday,1A,Outbound,786142,76,Langhorne Rd. (Eastbound Corner Of Carrington Rd.),1,1,2,57,0,37.410903,-79.168879
+Sunday,1A,Outbound,786202,77,Murrell Rd. (Westbound Apartments Right Off Of Langhorne Rd.),1,0,1,58,0,37.409502,-79.168645
+Sunday,1A,Outbound,786203,78,Murrell Rd. (Westbound Corner Of Carrington Rd. ),0,0,0,59,0,37.408459,-79.170083
+Sunday,1A,Outbound,786204,79,Murrell Rd. (Westbound The Oaks Retirement Home),0,0,0,59,1,37.407676,-79.171139
+Sunday,1A,Outbound,786281,80,Plaza Transfer Center,15,15,30,59,1,37.404307,-79.168678
+Sunday,1A,Outbound,3478096,81,Wadsworth St. Inbound (Park View United Methodist Church),3,2,5,61,0,37.402905,-79.166916
+Sunday,1A,Outbound,786259,82,Park Ave. (Eastbound Corner Of Park Ln.),0,0,0,59,0,37.404255,-79.164761
+Sunday,1A,Outbound,786260,83,Park Ave. (Eastbound Miller Park Stop),3,4,6,59,0,37.404398,-79.163188
+Sunday,1A,Outbound,786261,83,Park Ave. (Inbound Corner Of Floyd St.),0,0,0,0,0,37.408958,-79.153882
+Sunday,1A,Outbound,786264,83,Park Ave. (Northbound Corner Of Floyd St.),0,0,0,0,0,37.408991,-79.153702
+Sunday,1A,Outbound,785881,84,Buchanan and 12th St,0,0,0,0,0,37.404911,-79.153894
+Sunday,1A,Outbound,785882,84,Buchanon St. (Telephone Pole In Front Of Storage Facility),0,1,1,0,0,37.405919,-79.154946
+Sunday,1A,Outbound,786418,84,Twelfth St. (Westbound Corner Of Floyd St.),0,0,0,1,0,37.406379,-79.150981
+Sunday,1A,Outbound,786257,84,Park Ave. (Eastbound Corner Of Hutters Alley),0,1,1,58,0,37.404850,-79.158885
+Sunday,2,Outbound,785809,1,Kemper Street Transfer Center,17,9,26,37,0,37.408105,-79.157322
+Sunday,2,Outbound,785903,2,Campbell Ave. (Eastbound Corner Of Twelfth St.),1,3,4,19,0,37.402699,-79.157658
+Sunday,2,Outbound,785902,3,Campbell Ave. (Eastbound Corner Of Thirteenth St.),1,1,2,4,0,37.401594,-79.156549
+Sunday,2,Outbound,785894,4,Campbell Ave. (Eastbound Corner Of Fourteenth St.),0,0,0,2,0,37.399987,-79.155084
+Sunday,2,Outbound,785890,5,Campbell Ave. (Eastbound Corner Of Dewitt St.),1,0,1,1,0,37.395377,-79.150824
+Sunday,2,Outbound,785892,6,Campbell Ave. (Eastbound Corner Of Edmunds St.),0,0,0,1,0,37.394153,-79.149678
+Sunday,2,Outbound,3463384,7,Campbell Ave and Otey St West,0,0,0,1,0,37.393241,-79.148888
+Sunday,2,Outbound,785899,8,Campbell Ave. (Eastbound Corner Of Otey St.),0,0,0,1,0,37.392111,-79.147895
+Sunday,2,Outbound,785891,9,Campbell Ave. (Eastbound Corner Of Easley St.),1,0,1,2,0,37.389931,-79.147078
+Sunday,2,Outbound,785893,10,Campbell Ave. (Eastbound Corner Of Fairview Ave.),1,0,1,3,0,37.388847,-79.145644
+Sunday,2,Outbound,785896,11,Campbell Ave. (Eastbound Corner Of Kent St.),0,0,0,3,0,37.387086,-79.143220
+Sunday,2,Outbound,785898,12,Campbell Ave. (Eastbound Corner Of Maryland Ave.),0,0,0,3,0,37.386172,-79.142009
+Sunday,2,Outbound,785895,13,Campbell Ave. (Eastbound Corner Of Hanover St.),0,0,0,2,0,37.384153,-79.141685
+Sunday,2,Outbound,785897,14,Campbell Ave. (Eastbound Corner Of King St.),0,0,0,2,0,37.382499,-79.140086
+Sunday,2,Outbound,785900,15,Campbell Ave. (Eastbound Corner Of School Ln.),0,0,0,2,0,37.382135,-79.138651
+Sunday,2,Outbound,785901,16,Campbell Ave. (Eastbound Corner Of South Durham St.),0,0,0,2,0,37.381553,-79.136871
+Sunday,2,Outbound,786469,17,Woodrow St. (Outbound Corner Of Parkwood Ave.),0,0,0,2,0,37.379251,-79.136904
+Sunday,2,Outbound,786021,18,Florida Ave. (Northbound Corner Of Campbell Ave.),0,0,0,3,0,37.380066,-79.133869
+Sunday,2,Outbound,786019,19,Florida Ave. (Northbound Across From Food Lion ),0,0,0,2,0,37.381523,-79.132867
+Sunday,2,Outbound,786025,20,Florida Ave. (Northbound First Stop After Food Lion Stop),0,0,0,2,0,37.384833,-79.131944
+Sunday,2,Outbound,786024,21,Florida Ave. (Northbound Corner Of Winston Ridge Rd.),0,0,0,2,0,37.387262,-79.131245
+Sunday,2,Outbound,786020,22,Florida Ave. (Northbound Across From Gilmore Circle),0,0,0,2,0,37.389085,-79.132285
+Sunday,2,Outbound,786022,23,Florida Ave. (Northbound Corner Of Greenfield Dr.),0,0,0,2,0,37.391382,-79.133470
+Sunday,2,Outbound,786100,24,Greenfield Dr. (Outbound Greenfield Apartment Stop),2,0,3,5,0,37.392851,-79.131567
+Sunday,2,Outbound,786027,25,Florida Ave. (Southbound Corner Of Elmhurst St.),0,0,0,5,0,37.390923,-79.133179
+Sunday,2,Outbound,786028,26,Florida Ave. (Southbound Corner Of Gilmore Circle),0,0,0,5,0,37.389271,-79.132463
+Sunday,2,Outbound,786026,27,Florida Ave. (Southbound Across From Winston Ridge Rd.),0,0,0,5,0,37.386948,-79.131311
+Sunday,2,Outbound,786029,28,Florida Ave. (Southbound First Stop Past Bridge Over Tracks),0,0,0,5,0,37.384756,-79.132087
+Sunday,2,Outbound,786031,29,Florida Ave. (Southbound In Front Of Food Lion),0,0,0,5,0,37.383503,-79.132457
+Sunday,2,Outbound,786030,30,Florida Ave. (Southbound In Front Of Food Lion Closest To Campbell Ave.),0,0,0,5,0,37.381756,-79.132875
+Sunday,2,Outbound,785918,31,Campbell Ave. (Westbound In Front Of Burger King),0,0,0,5,0,37.380984,-79.135026
+Sunday,2,Outbound,785915,32,Campbell Ave. (Westbound Corner Of Texas Ave.),0,0,0,5,0,37.382270,-79.138505
+Sunday,2,Outbound,785912,33,Campbell Ave. (Westbound Corner Of King St.),0,0,0,5,0,37.382689,-79.140141
+Sunday,2,Outbound,785909,34,Campbell Ave. (Westbound Corner Of Georgia Ave.),0,0,0,5,0,37.383980,-79.141399
+Sunday,2,Outbound,785905,35,Campbell Ave. (Inbound Corner Of Ridge Ave.),0,0,0,5,0,37.385467,-79.141463
+Sunday,2,Outbound,785911,36,Campbell Ave. (Westbound Corner Of Idaho Ave.),0,0,0,5,0,37.387119,-79.142925
+Sunday,2,Outbound,785910,37,Campbell Ave. (Westbound Corner Of Hughes Ave.),0,0,0,5,0,37.388493,-79.144861
+Sunday,2,Outbound,785908,38,Campbell Ave. (Westbound Corner Of Easley St.),0,0,0,6,0,37.389847,-79.146703
+Sunday,2,Outbound,785913,39,Campbell Ave. (Westbound Corner Of Mosby Ave.),0,0,0,6,0,37.391649,-79.147458
+Sunday,2,Outbound,785914,40,Campbell Ave. (Westbound Corner Of Otey St.),0,0,0,6,0,37.392898,-79.148327
+Sunday,2,Outbound,785907,41,Campbell Ave. (Westbound Corner Of Dewitt St.),0,0,0,6,0,37.395321,-79.150605
+Sunday,2,Outbound,785917,42,Campbell Ave. (Westbound First Stop After Going Over Lynchburg Expressway Going Toward Twelfth St.),0,0,0,6,0,37.399656,-79.154582
+Sunday,2,Outbound,785906,43,Campbell Ave. (Westbound Across From Thirteenth St.),0,0,0,7,0,37.401696,-79.156508
+Sunday,2,Outbound,785916,44,Campbell Ave. (Westbound Corner Of Twelfth St.),0,0,0,27,0,37.403100,-79.158041
+Sunday,3B,Outbound,4212746,1,7TH. & CHURCH ST.,0,0,0,0,0,37.41594,-79.14627
+Sunday,3A,Outbound,785882,2,Buchanon St. (Telephone Pole In Front Of Storage Facility),3,4,7,66,0,37.405919,-79.154946
+Sunday,3B,Outbound,785863,2,Boonsboro Rd. (Eastbound Starbucks Stop),0,0,0,4,0,37.447114,-79.217286
+Sunday,3B,Outbound,786265,2,Park Ave. (Outbound Corner Of Pierce St.),0,1,1,37,0,37.407252,-79.154834
+Sunday,3A,Outbound,786411,3,Twelfth St. (Eastbound Corner Of Floyd St.),0,3,3,54,0,37.406336,-79.150814
+Sunday,3B,Outbound,785856,3,Boonsboro Rd. (Eastbound Corner Of Cantebury Court),0,0,0,4,0,37.446250,-79.215751
+Sunday,3B,Outbound,786264,3,Park Ave. (Northbound Corner Of Floyd St.),0,1,1,37,0,37.408991,-79.153702
+Sunday,3A,Outbound,786413,4,Twelfth St. (Eastbound Corner Of Taylor St.),0,1,1,52,0,37.407311,-79.149054
+Sunday,3B,Outbound,785854,4,Boonsboro Rd. (Eastbound Boonsboro Village),1,0,1,4,0,37.445301,-79.214059
+Sunday,3B,Outbound,785987,4,Eighth Street (Outbound Corner Of Wise St.),0,1,1,35,0,37.410008,-79.153161
+Sunday,3A,Outbound,786415,5,Twelfth St. (Outbound Across From Polk St.),0,1,1,53,2,37.408123,-79.147591
+Sunday,3B,Outbound,785860,5,Boonsboro Rd. (Eastbound Corner Of Mimosa Dr.),0,0,0,4,0,37.444128,-79.211890
+Sunday,3B,Outbound,785985,5,Eighth Street (Eastbound Corner Of Taylor St.),0,2,2,34,0,37.410523,-79.152229
+Sunday,3A,Outbound,786309,6,Rivermont Ave. (Outbound Corner Of Library St.),0,0,0,0,0,37.422294,-79.149995
+Sunday,3A,Outbound,786327,6,Rivermont Ave. (Westbound Corner Of Victoria Ave.),0,0,0,0,0,37.421498,-79.148986
+Sunday,3A,Outbound,786412,6,Twelfth St. (Eastbound Corner Of Grace St.),1,7,8,46,0,37.410499,-79.143287
+Sunday,3B,Outbound,785983,6,Eighth Street (Eastbound Corner Of Monroe St.),0,0,0,34,0,37.411023,-79.151329
+Sunday,3A,Outbound,786321,7,Rivermont Ave. (Westbound Corner Of Jones St.),0,0,0,0,0,37.423370,-79.151375
+Sunday,3A,Outbound,786410,7,Twelfth St. (Eastbound Corner Of Church St.),1,7,8,43,0,37.411594,-79.141431
+Sunday,3B,Outbound,785984,7,Eighth Street (Eastbound Corner Of Polk St.),0,0,1,34,0,37.411555,-79.150402
+Sunday,3A,Outbound,2505493,8,Downtown YMCA/Lighthouse Stop,0,0,0,43,0,37.410102,-79.139573
+Sunday,3A,Outbound,786326,8,Rivermont Ave. (Westbound Corner Of Victoria Ave. Across From J St.),0,0,0,1,0,37.425435,-79.152831
+Sunday,3B,Outbound,785982,8,Eighth Street (Eastbound Corner Of Jackson St.),0,0,1,34,0,37.412065,-79.149463
+Sunday,3A,Outbound,786173,9,Main St. (Corner Of Pearl St.),0,0,0,43,1,37.409636,-79.137567
+Sunday,3A,Outbound,786325,9,Rivermont Ave. (Westbound Corner Of Randolph St.),0,0,0,1,0,37.426676,-79.153200
+Sunday,3B,Outbound,785981,9,Eighth Street (Eastbound Corner Of Harrison St.),1,1,2,34,0,37.413244,-79.147277
+Sunday,3A,Outbound,786315,10,Rivermont Ave. (Westbound Corner Of Bedford Ave.),0,0,0,1,0,37.428886,-79.153845
+Sunday,3A,Outbound,786183,10,Main St. (Westbound Corner Of Washington St.),0,1,1,43,0,37.410470,-79.138284
+Sunday,3B,Outbound,785986,10,Eighth Street (Outbound Corner Of Clay St.),1,4,5,31,0,37.414037,-79.145864
+Sunday,3A,Outbound,786179,11,Main St. (Intersection Of 11Th St.),2,1,3,44,0,37.413529,-79.141033
+Sunday,3A,Outbound,786310,11,Rivermont Ave. (Outbound Corner Of Woodson Ln.),0,0,0,1,0,37.431632,-79.155261
+Sunday,3B,Outbound,785957,11,Clay St. (Southbound Corner Of Ninth St.),1,1,2,31,0,37.413430,-79.145213
+Sunday,3A,Outbound,786318,12,Rivermont Ave. (Westbound Corner Of Easton Ave.),0,0,0,1,0,37.432513,-79.156800
+Sunday,3A,Outbound,2505491,12,Bank of the James,2,4,6,41,0,37.415565,-79.142795
+Sunday,3B,Outbound,785956,12,Clay St. (Southbound Corner Of Eleventh St.),0,1,1,32,0,37.411789,-79.143719
+Sunday,3A,Outbound,786319,13,Rivermont Ave. (Westbound Corner Of Fredonia Ave.),0,0,0,1,0,37.433186,-79.158032
+Sunday,3A,Outbound,786174,13,7th St. & Main St.,3,2,5,43,0,37.417066,-79.144170
+Sunday,3B,Outbound,786410,13,Twelfth St. (Eastbound Corner Of Church St.),5,5,10,33,0,37.411594,-79.141431
+Sunday,3A,Outbound,785971,14,D St. (Northbound Right Off Of Rivermont At The Beginning Of The Bridge),0,0,0,42,0,37.421411,-79.148425
+Sunday,3A,Outbound,786311,14,Rivermont Ave. (Westbound Across From Holly St.),0,0,0,1,0,37.433728,-79.159018
+Sunday,3B,Outbound,786327,14,Rivermont Ave. (Westbound Corner Of Victoria Ave.),0,1,1,15,0,37.421498,-79.148986
+Sunday,3A,Outbound,786320,15,Rivermont Ave. (Westbound Corner Of Huron Ave.),0,0,0,1,0,37.434493,-79.160435
+Sunday,3A,Outbound,785970,15,D St. (Northbound Corner Of Cabell St.),12,14,26,44,0,37.422549,-79.146350
+Sunday,3B,Outbound,786309,15,Rivermont Ave. (Outbound Corner Of Library St.),1,0,1,33,0,37.422294,-79.149995
+Sunday,3A,Outbound,786308,16,Rivermont Ave. (Outbound Corner Of Irvington St.),0,0,0,1,0,37.434982,-79.161333
+Sunday,3A,Outbound,785887,16,Cabell St. (Corner Of G St.),0,0,0,41,0,37.424774,-79.147858
+Sunday,3B,Outbound,786321,16,Rivermont Ave. (Westbound Corner Of Jones St.),0,0,0,34,0,37.423370,-79.151375
+Sunday,3A,Outbound,786314,17,Rivermont Ave. (Westbound Corner Of Ash St.),0,0,0,1,0,37.436160,-79.163484
+Sunday,3A,Outbound,785888,17,Cabell St. (Corner Of I St. Community Garden Stop),0,0,0,41,0,37.426674,-79.149081
+Sunday,3B,Outbound,786326,17,Rivermont Ave. (Westbound Corner Of Victoria Ave. Across From J St.),2,1,3,35,0,37.425435,-79.152831
+Sunday,3A,Outbound,786329,18,Rivermont Ave. (Westbound Entrance Of Riverside Park),0,0,0,1,0,37.436906,-79.165061
+Sunday,3A,Outbound,785889,18,Cabell St. (Corner Of Rivermont Ave. Across From Miles Market),1,4,5,38,0,37.427328,-79.152466
+Sunday,3B,Outbound,786325,18,Rivermont Ave. (Westbound Corner Of Randolph St.),0,2,2,33,0,37.426676,-79.153200
+Sunday,3A,Outbound,786317,19,Rivermont Ave. (Westbound Corner Of Columbia Ave.),0,0,0,1,0,37.436984,-79.166124
+Sunday,3A,Outbound,785847,19,Bedford Ave. (Westbound In Front Of Rivermont Ave. Baptist Church),1,6,6,34,0,37.429125,-79.154901
+Sunday,3B,Outbound,785889,19,Cabell St. (Corner Of Rivermont Ave. Across From Miles Market),0,0,0,15,0,37.427328,-79.152466
+Sunday,3A,Outbound,785844,20,Bedford Ave. (Westbound Corner Of Dinwiddie St.),1,1,2,34,0,37.429716,-79.156471
+Sunday,3B,Outbound,786315,20,Rivermont Ave. (Westbound Corner Of Bedford Ave.),0,2,2,32,0,37.428886,-79.153845
+Sunday,3A,Outbound,785845,21,Bedford Ave. (Westbound Corner Of Grayson St.),1,5,6,31,0,37.430831,-79.159469
+Sunday,3B,Outbound,786316,21,Rivermont Ave. (Westbound Corner Of Charlotte St.),0,0,0,14,0,37.429711,-79.154095
+Sunday,3A,Outbound,785846,22,Bedford Ave. (Westbound Corner Of Hawes St.),0,1,1,30,0,37.432150,-79.162145
+Sunday,3B,Outbound,786310,22,Rivermont Ave. (Outbound Corner Of Woodson Ln.),2,0,2,33,0,37.431632,-79.155261
+Sunday,3A,Outbound,785843,23,Bedford Ave. (Westbound Corner Of Cork St.),0,0,0,29,0,37.433145,-79.163868
+Sunday,3B,Outbound,786318,23,Rivermont Ave. (Westbound Corner Of Easton Ave.),0,1,1,32,0,37.432513,-79.156800
+Sunday,3A,Outbound,785841,24,Bedford Ave. (Westbound Across From Cleveland Ave.),2,5,6,27,0,37.434465,-79.166442
+Sunday,3B,Outbound,786319,24,Rivermont Ave. (Westbound Corner Of Fredonia Ave.),1,1,2,32,0,37.433186,-79.158032
+Sunday,3A,Outbound,786331,25,Rivermont Ave. (Westbound In Front Of Magnolia Foods),0,3,3,25,0,37.435049,-79.169815
+Sunday,3B,Outbound,786311,25,Rivermont Ave. (Westbound Across From Holly St.),3,1,5,34,0,37.433728,-79.159018
+Sunday,3A,Outbound,786332,26,Rivermont Ave. (Westbound In Front Of Randolph College),0,0,0,25,0,37.435276,-79.171641
+Sunday,3B,Outbound,786320,26,Rivermont Ave. (Westbound Corner Of Huron Ave.),0,0,0,34,0,37.434493,-79.160435
+Sunday,3A,Outbound,786334,27,Rivermont Ave. (Westbound Randolph College Entrance),0,1,1,24,0,37.436876,-79.173597
+Sunday,3B,Outbound,786308,27,Rivermont Ave. (Outbound Corner Of Irvington St.),0,0,0,34,0,37.434982,-79.161333
+Sunday,3A,Outbound,786328,28,Rivermont Ave. (Westbound Corner Of West Princeton Cir.),0,1,1,24,0,37.437441,-79.174849
+Sunday,3B,Outbound,786314,28,Rivermont Ave. (Westbound Corner Of Ash St.),1,0,1,36,0,37.436160,-79.163484
+Sunday,3B,Outbound,4223972,28,RIVERMONT AVE. & COLUMBIA AV,1,0,1,8,0,37.43689,-79.16534
+Sunday,3A,Outbound,786333,29,Rivermont Ave. (Westbound In Front Of Woodstock Apartments),0,1,1,23,0,37.438091,-79.177251
+Sunday,3B,Outbound,786329,29,Rivermont Ave. (Westbound Entrance Of Riverside Park),0,0,0,35,0,37.436906,-79.165061
+Sunday,3A,Outbound,3463385,30,Rivemont and Vista,0,1,1,22,0,37.438802,-79.178632
+Sunday,3B,Outbound,786317,30,Rivermont Ave. (Westbound Corner Of Columbia Ave.),2,2,3,36,0,37.436984,-79.166124
+Sunday,3A,Outbound,786322,31,Rivermont Ave. (Westbound Corner Of Langhorne Rd.),0,0,0,22,0,37.439141,-79.181775
+Sunday,3B,Outbound,786331,31,Rivermont Ave. (Westbound In Front Of Magnolia Foods),1,1,2,35,0,37.435049,-79.169815
+Sunday,3A,Outbound,786330,32,Rivermont Ave. (Westbound First Stop Past Pershing Ave.),0,0,0,23,0,37.439507,-79.183233
+Sunday,3B,Outbound,786332,32,Rivermont Ave. (Westbound In Front Of Randolph College),0,0,0,35,0,37.435276,-79.171641
+Sunday,3A,Outbound,786312,33,Rivermont Ave. (Westbound Across From Rivermont Terrace),0,0,0,22,0,37.439621,-79.184942
+Sunday,3B,Outbound,786334,33,Rivermont Ave. (Westbound Randolph College Entrance),0,1,1,34,0,37.436876,-79.173597
+Sunday,3B,1,3463385,33,Rivemont and Vista,0,1,1,19,0,37.438802,-79.178632
+Sunday,3A,Outbound,786323,34,Rivermont Ave. (Westbound Corner Of Lee Cir.),0,0,0,22,0,37.439621,-79.186148
+Sunday,3B,Outbound,786328,34,Rivermont Ave. (Westbound Corner Of West Princeton Cir.),1,0,1,34,0,37.437441,-79.174849
+Sunday,3A,Outbound,786313,35,Rivermont Ave. (Westbound Across From Virginia Baptist Hopital),0,2,2,21,0,37.439333,-79.187651
+Sunday,3B,Outbound,786333,35,Rivermont Ave. (Westbound In Front Of Woodstock Apartments),1,1,1,34,0,37.438091,-79.177251
+Sunday,3A,Outbound,786324,36,Rivermont Ave. (Westbound Corner Of Oakwood Pl.),0,0,1,22,0,37.439364,-79.189487
+Sunday,3B,Outbound,786322,36,Rivermont Ave. (Westbound Corner Of Langhorne Rd.),0,1,1,33,0,37.439141,-79.181775
+Sunday,3A,Outbound,786011,37,Fifth St. (Westbound Corner Of Fillmore St.),0,0,0,1,0,37.411602,-79.157037
+Sunday,3A,Outbound,786271,37,Park Ave. (Westbound Place Stop Across From Corner Of Hutters Alley),0,0,0,0,0,37.404998,-79.158731
+Sunday,3A,Outbound,786424,37,Ves Rd. (Northbound Corner Of Pine Dr.),0,0,0,23,0,37.446771,-79.188533
+Sunday,3B,Outbound,786330,37,Rivermont Ave. (Westbound First Stop Past Pershing Ave.),0,0,0,33,0,37.439507,-79.183233
+Sunday,3A,Outbound,785809,38,Kemper Street Transfer Center,46,43,89,55,3,37.408105,-79.157322
+Sunday,3A,Outbound,786423,38,Ves Rd. (Northbound Across From Westminster Nursing Home),1,0,1,23,0,37.450501,-79.189963
+Sunday,3B,Outbound,786312,38,Rivermont Ave. (Westbound Across From Rivermont Terrace),0,0,0,33,0,37.439621,-79.184942
+Sunday,3A,Outbound,786422,39,Ves Rd. (Northbound Across From Ves School Entrance),0,0,0,22,0,37.452404,-79.190077
+Sunday,3B,Outbound,786323,39,Rivermont Ave. (Westbound Corner Of Lee Cir.),0,0,0,33,0,37.439621,-79.186148
+Sunday,3A,1,4149416,40,MAPLE RIDGE APARTMENTS MAILB,0,0,0,4,0,37.45190,-79.18112
+Sunday,3B,1,785865,40,Boonsboro Rd. (Outbound Across From Kroger),0,1,1,18,0,37.443456,-79.202419
+Sunday,3B,Outbound,786313,40,Rivermont Ave. (Westbound Across From Virginia Baptist Hopital),0,1,1,32,0,37.439333,-79.187651
+Sunday,3A,Outbound,786342,41,Ruesens Rd. (Outbound Maple Ridge Apartments),1,1,2,13,5,37.450915,-79.182958
+Sunday,3A,Outbound,786426,41,Ves Rd. (Southbound Corner Of Ves School),0,0,0,13,0,37.452831,-79.189636
+Sunday,3B,1,785870,41,Boonsboro Rd. (Westbound Corner Of Greenway Court),0,0,1,18,0,37.444741,-79.206360
+Sunday,3B,Outbound,786324,41,Rivermont Ave. (Westbound Corner Of Oakwood Pl.),0,0,0,32,0,37.439364,-79.189487
+Sunday,3A,Outbound,786427,42,Ves Rd. (Southbound Corner Of Westminster Nursing Home),0,0,0,13,0,37.450494,-79.190094
+Sunday,3B,1,785869,42,Boonsboro Rd. (Westbound Corner Of Greenway Court Second Stop),0,0,0,18,0,37.444608,-79.207898
+Sunday,3A,Outbound,786425,43,Ves Rd. (Southbound Across From Pine Dr.),4,3,6,15,0,37.446986,-79.188692
+Sunday,3B,1,785868,43,Boonsboro Rd. (Westbound Corner Of Gorman Dr.),0,0,0,18,0,37.444242,-79.209903
+Sunday,3A,Outbound,786428,44,Ves Rd. (Southbound Corner of Peakland Pl.),0,0,0,15,0,37.439785,-79.190646
+Sunday,3B,1,785871,44,Boonsboro Rd. (Westbound Corner Of Old Boonsboro Rd.),0,1,1,17,0,37.445287,-79.213732
+Sunday,3A,Outbound,786291,45,Rivermont Ave. (Eastbound Across From Ves Rd.),0,0,0,15,0,37.439248,-79.190340
+Sunday,3B,1,785867,45,Boonsboro Rd. (Westbound Boonsboro Hardware Store Stop),0,0,0,17,0,37.447490,-79.217674
+Sunday,3A,Outbound,786306,46,Rivermont Ave. (Eastbound In Front Of Virginia Baptist Hospital),2,0,3,17,0,37.439178,-79.187541
+Sunday,3B,Outbound,785851,46,Boonsboro Rd. (Boonsboro Shopping Center Stop),3,4,7,17,0,37.447050,-79.218892
+Sunday,3A,Outbound,786302,47,Rivermont Ave. (Eastbound Corner Of Rivermont Terrace),0,0,0,17,0,37.439453,-79.184697
+Sunday,3B,Outbound,785866,47,Boonsboro Rd. (Westbound Across From Mimosa Dr.),0,0,0,1,0,37.444210,-79.211726
+Sunday,3A,Outbound,786305,48,Rivermont Ave. (Eastbound In Front First Christian Church),0,0,0,17,0,37.439298,-79.182958
+Sunday,3A,Outbound,786300,49,Rivermont Ave. (Eastbound Corner Of Langhorne Rd.),1,0,1,18,0,37.438941,-79.181635
+Sunday,3A,Outbound,786292,50,Rivermont Ave. (Eastbound Across From Vista Ave.),2,0,2,19,0,37.438692,-79.178641
+Sunday,3A,Outbound,786303,51,Rivermont Ave. (Eastbound Corner Of Rowland Dr.),0,0,0,19,0,37.437889,-79.177237
+Sunday,3A,Outbound,786295,52,Rivermont Ave. (Eastbound Corner Of Belvedere St.),0,0,0,19,0,37.437283,-79.174598
+Sunday,3A,Outbound,786304,53,Rivermont Ave. (Eastbound Corner Of South Princeton Cir.),0,0,1,19,0,37.436634,-79.173568
+Sunday,3A,Outbound,786293,54,Rivermont Ave. (Eastbound Corner Of Arrington St.),0,0,0,19,0,37.435706,-79.172485
+Sunday,3A,Outbound,786301,55,Rivermont Ave. (Eastbound Corner Of Norfolk Ave.),0,0,0,19,0,37.435065,-79.171622
+Sunday,3B,Outbound,785853,55,Boonsboro Rd. (Eastbound Across From Greenway Court),0,0,0,5,0,37.444457,-79.208043
+Sunday,3A,Outbound,786299,56,Rivermont Ave. (Eastbound Corner Of Elmwood Ave.),2,2,3,20,0,37.434829,-79.170173
+Sunday,3B,Outbound,785852,56,Boonsboro Rd. (Eastbound Across From Greenway Court Second Stop),0,0,0,5,0,37.444617,-79.206729
+Sunday,3A,Outbound,785834,57,Bedford Ave. (Eastbound 7Eleven),2,1,3,21,0,37.434794,-79.167574
+Sunday,3B,Outbound,785862,57,Boonsboro Rd. (Eastbound Kroger Stop.),1,0,1,6,0,37.443581,-79.203015
+Sunday,3A,Outbound,785839,58,Bedford Ave. (Eastbound Transfer Point),6,1,7,25,0,37.434273,-79.166391
+Sunday,3B,Outbound,785857,58,Boonsboro Rd. (Eastbound Corner Of Clayton Ave.),0,0,0,6,0,37.443044,-79.201762
+Sunday,3A,Outbound,785835,59,Bedford Ave. (Eastbound Corner Of Birch St.),0,0,0,26,0,37.433523,-79.164778
+Sunday,3B,Outbound,785858,59,Boonsboro Rd. (Eastbound Corner Of Linden Ave.),0,0,0,6,0,37.442452,-79.200404
+Sunday,3A,Outbound,785838,60,Bedford Ave. (Eastbound Corner Of Loudon St.),0,0,0,26,0,37.432214,-79.162509
+Sunday,3B,Outbound,785864,60,Boonsboro Rd. (Inbound Corner Of Somerset Dr.),0,0,0,6,0,37.441757,-79.198797
+Sunday,3A,Outbound,785837,61,Bedford Ave. (Eastbound Corner Of Holly St.),3,1,4,29,0,37.431107,-79.160513
+Sunday,3B,Outbound,785861,61,Boonsboro Rd. (Eastbound Corner Of Parkland Dr.),0,0,0,6,0,37.441312,-79.197759
+Sunday,3A,Outbound,785836,62,Bedford Ave. (Eastbound Corner Of Fauquier St.),2,1,3,31,0,37.430288,-79.158345
+Sunday,3B,Outbound,785855,62,Boonsboro Rd. (Eastbound Corner Of Arrow St.),0,0,0,6,0,37.441082,-79.196235
+Sunday,3A,Outbound,785840,63,Bedford Ave. (Inbound Corner Of Dinwiddie St.),2,0,2,33,0,37.429328,-79.155818
+Sunday,3B,Outbound,785859,63,Boonsboro Rd. (Eastbound Corner Of Link Rd.),0,0,0,20,0,37.439716,-79.193202
+Sunday,3A,Outbound,3463386,64,Bedford Ave and Rivermont Ave,1,1,2,33,0,37.428818,-79.154448
+Sunday,3B,Outbound,786291,64,Rivermont Ave. (Eastbound Across From Ves Rd.),0,0,0,20,0,37.439248,-79.190340
+Sunday,3A,Outbound,786297,65,Rivermont Ave. (Eastbound Corner Of Cabell St.),6,1,7,39,0,37.427795,-79.153720
+Sunday,3B,Outbound,786306,65,Rivermont Ave. (Eastbound In Front Of Virginia Baptist Hospital),1,0,1,20,0,37.439178,-79.187541
+Sunday,3A,Outbound,786296,66,Rivermont Ave. (Eastbound Corner Of Byrd St.),2,0,2,41,0,37.426300,-79.153270
+Sunday,3B,Outbound,786302,66,Rivermont Ave. (Eastbound Corner Of Rivermont Terrace),0,0,0,20,0,37.439453,-79.184697
+Sunday,3A,Outbound,786294,67,Rivermont Ave. (Eastbound Corner Of Belmont St.),1,2,3,41,0,37.424684,-79.152803
+Sunday,3B,Outbound,786305,67,Rivermont Ave. (Eastbound In Front First Christian Church),0,0,0,20,0,37.439298,-79.182958
+Sunday,3A,Outbound,786290,68,Rivermont Ave. (Eastbound Across From Library St.),0,0,0,41,0,37.422250,-79.150289
+Sunday,3B,Outbound,786300,68,Rivermont Ave. (Eastbound Corner Of Langhorne Rd.),0,0,0,21,0,37.438941,-79.181635
+Sunday,3A,Outbound,786298,69,Rivermont Ave. (Eastbound Corner Of D St.),0,0,1,40,0,37.421205,-79.148974
+Sunday,3B,Outbound,786292,69,Rivermont Ave. (Eastbound Across From Vista Ave.),1,0,1,22,0,37.438692,-79.178641
+Sunday,3A,Outbound,786417,70,Twelfth St. (Westbound Corner Of Clay St.),15,5,19,52,1,37.411059,-79.142619
+Sunday,3B,Outbound,786303,70,Rivermont Ave. (Eastbound Corner Of Rowland Dr.),0,0,0,22,0,37.437889,-79.177237
+Sunday,3A,Outbound,786419,71,Twelfth St. (Westbound Corner Of Polk St.),1,0,1,53,0,37.408214,-79.147688
+Sunday,3B,Outbound,786295,71,Rivermont Ave. (Eastbound Corner Of Belvedere St.),0,0,0,22,0,37.437283,-79.174598
+Sunday,3A,Outbound,786420,72,Twelfth St. (Westbound Corner Of Taylor St.),3,1,4,55,0,37.407209,-79.149491
+Sunday,3B,Outbound,786304,72,Rivermont Ave. (Eastbound Corner Of South Princeton Cir.),0,0,0,22,0,37.436634,-79.173568
+Sunday,3A,Outbound,786418,73,Twelfth St. (Westbound Corner Of Floyd St.),1,1,2,53,0,37.406379,-79.150981
+Sunday,3B,Outbound,786293,73,Rivermont Ave. (Eastbound Corner Of Arrington St.),0,0,0,22,0,37.435706,-79.172485
+Sunday,3A,Outbound,785881,74,Buchanan and 12th St,0,0,0,53,0,37.404911,-79.153894
+Sunday,3B,Outbound,786301,74,Rivermont Ave. (Eastbound Corner Of Norfolk Ave.),0,0,0,22,0,37.435065,-79.171622
+Sunday,3A,Outbound,3463387,75,Buchanan and 11th St,8,7,16,56,1,37.405899,-79.154706
+Sunday,3B,Outbound,786299,75,Rivermont Ave. (Eastbound Corner Of Elmwood Ave.),1,1,2,22,0,37.434829,-79.170173
+Sunday,3B,Outbound,786307,76,Rivermont Ave. (Inbound Corner Of Bedford Ave.),0,0,0,22,0,37.435601,-79.168595
+Sunday,3B,Outbound,786335,77,Rivermont Avenue (Eastbound Across From Riverside Park),1,0,1,23,0,37.436338,-79.164224
+Sunday,3B,Outbound,786338,78,Rivermont Avenue (Eastbound Corner Of Loudon Street),0,1,1,23,0,37.434960,-79.161714
+Sunday,3B,Outbound,786337,79,Rivermont Avenue (Eastbound Corner Of Holly Street),3,4,7,22,0,37.433721,-79.159427
+Sunday,3B,Outbound,786336,80,Rivermont Avenue (Eastbound Corner Of Faquier Street),2,1,3,23,0,37.432442,-79.157041
+Sunday,3B,Outbound,786339,81,Rivermont Avenue (Eastbound Corner Of Ruffner Place),0,0,0,15,0,37.429494,-79.154290
+Sunday,3B,Outbound,785809,81,Kemper Street Transfer Center,29,32,60,35,3,37.408105,-79.157322
+Sunday,3B,Outbound,786297,82,Rivermont Ave. (Eastbound Corner Of Cabell St.),4,1,5,26,0,37.427795,-79.153720
+Sunday,3B,Outbound,786296,83,Rivermont Ave. (Eastbound Corner Of Byrd St.),0,0,0,26,0,37.426300,-79.153270
+Sunday,3B,Outbound,786294,84,Rivermont Ave. (Eastbound Corner Of Belmont St.),1,0,1,26,0,37.424684,-79.152803
+Sunday,3B,Outbound,786290,85,Rivermont Ave. (Eastbound Across From Library St.),0,0,0,27,0,37.422250,-79.150289
+Sunday,3B,Outbound,786298,86,Rivermont Ave. (Eastbound Corner Of D St.),0,0,0,27,0,37.421205,-79.148974
+Sunday,3B,Outbound,785950,87,Church St. (Corner Of Sixth St.),1,3,4,26,0,37.416546,-79.145244
+Sunday,3B,Outbound,785949,88,Church St. (Corner Of Eighth St.),0,0,0,17,0,37.415512,-79.144244
+Sunday,3B,Outbound,785951,89,Church St. (Corner Of Tenth St.),3,4,7,25,0,37.413593,-79.142607
+Sunday,3B,Outbound,786414,90,Twelfth St. (Inbound Corner Of Court St.),0,0,0,17,0,37.411625,-79.141626
+Sunday,3B,Outbound,786417,91,Twelfth St. (Westbound Corner Of Clay St.),4,2,6,28,0,37.411059,-79.142619
+Sunday,3B,Outbound,785955,92,Clay St. (Northbound Corner Of Eleventh St.),10,2,12,35,0,37.411561,-79.143344
+Sunday,3B,Outbound,785954,93,Clay St. (Northbound Corner Of Tenth St.),0,0,0,36,0,37.412440,-79.144148
+Sunday,3B,Outbound,785953,94,Clay St. (Northbound Corner Of Ninth St.),0,0,0,36,0,37.413256,-79.144867
+Sunday,3B,Outbound,785952,95,Clay St. (Inbound Corner Of Eighth St.),0,0,0,36,0,37.414000,-79.145564
+Sunday,3B,Outbound,785977,96,Eighth St. (Westbound Corner Of Madison St.),1,0,1,37,0,37.413746,-79.146609
+Sunday,3B,Outbound,785976,97,Eighth St. (Westbound Corner Of Federal St.),2,0,2,38,0,37.412747,-79.148398
+Sunday,3B,Outbound,785975,98,Eighth St. (Inbound Corner Of Jackson St.),4,1,5,38,0,37.412206,-79.149376
+Sunday,3B,Outbound,785979,99,Eighth St. (Westbound Corner Of Polk St.),1,1,1,39,0,37.411524,-79.150590
+Sunday,3B,Outbound,785980,100,Eighth St. (Westbound Corner Of Taylor St.),2,0,2,41,0,37.410508,-79.152408
+Sunday,3B,Outbound,786261,101,Park Ave. (Inbound Corner Of Floyd St.),2,2,4,40,0,37.408958,-79.153882
+Sunday,3B,Outbound,786266,102,Park Ave. (Southbound Corner Of Pierce St.),0,0,0,25,0,37.407270,-79.154971
+Sunday,4,Outbound,786263,2,Buchanan St. ( Outbound From The Transfer Station),2,0,2,61,0,37.407462,-79.156373
+Sunday,4,Outbound,786275,3,Park Avenue And Langhorne Road (Westbound),5,1,6,66,0,37.403231,-79.158753
+Sunday,4,Outbound,786273,4,Fort Ave. & Marsh St. ( Outbound),1,0,1,67,0,37.401933,-79.160084
+Sunday,4,Outbound,786034,5,Fort Ave (Westbound Auto Zone Across From Thurman Avenue),2,0,2,68,0,37.399769,-79.162296
+Sunday,4,Outbound,786060,6,Fort Ave. (Westbound Across From Spring Hill City Cemetary),1,0,1,69,0,37.397714,-79.164469
+Sunday,4,Outbound,786061,7,Fort Ave. (Westbound Before East Grand Ave.),1,1,3,69,0,37.394340,-79.168018
+Sunday,4,Outbound,786064,8,Fort Ave. (Westbound East Grand Ave.),1,0,1,70,0,37.393207,-79.169210
+Sunday,4,Outbound,786059,9,Fort Ave. (Westbound Across From Rutherford St.),1,2,3,70,0,37.391759,-79.170773
+Sunday,4,Outbound,786070,10,Fort Ave. (Westbound Oakridge Blvd.),2,1,3,70,0,37.390478,-79.172119
+Sunday,4,Outbound,786073,11,Fort Ave. (Westbound Vermont Ave.),0,0,1,71,0,37.389327,-79.173353
+Sunday,4,Outbound,786069,12,Fort Ave. (Westbound New Hampshire Ave.),0,0,1,71,0,37.386106,-79.176666
+Sunday,4,Outbound,786062,13,Fort Ave. (Westbound Biltmore Ave.),0,0,0,71,0,37.385359,-79.177495
+Sunday,4,Outbound,786067,14,Fort Ave. (Westbound Johnson Rd.),1,0,1,71,0,37.382330,-79.180732
+Sunday,4,Outbound,786072,15,Fort Ave. (Westbound Tolley"s" Ln.),0,0,0,71,0,37.380894,-79.181999
+Sunday,4,Outbound,786071,16,Fort Ave. (Westbound Toledo Ave.),0,0,0,71,0,37.379950,-79.182821
+Sunday,4,Outbound,786068,17,Fort Ave. (Westbound Lindsay St.),0,0,0,71,0,37.378006,-79.184524
+Sunday,4,Outbound,786063,18,Fort Ave. (Westbound Chesnut Hill Dr.),1,4,4,68,0,37.377190,-79.185278
+Sunday,4,Outbound,786456,19,Wards Rd. (Southbound Fort Ave. Split In Front Of Cvs),1,4,5,64,0,37.375197,-79.185688
+Sunday,4,Outbound,786460,20,Wards Rd. (Southbound White Oak Dr.),1,3,3,62,0,37.374233,-79.185240
+Sunday,4,Outbound,786459,21,Wards Rd. (Southbound Wendy"s Across From Burlington Coat Factory),0,2,2,61,0,37.373548,-79.184915
+Sunday,4,Outbound,786455,22,Wards Rd. (Southbound Edgewood Ave.),2,3,5,60,0,37.371995,-79.184226
+Sunday,4,Outbound,786458,23,Wards Rd. (Southbound Sheffield Dr.),0,2,3,58,0,37.370539,-79.183753
+Sunday,4,Outbound,785809,24,Kemper Street Transfer Center,30,23,53,34,3,37.408105,-79.157322
+Sunday,4,Outbound,786453,24,Wards Rd. (Southbound Big-K),2,0,2,59,0,37.368376,-79.183175
+Sunday,4,Outbound,786454,25,Wards Rd. (Southbound Carpetland),0,5,5,54,0,37.366862,-79.182753
+Sunday,4,Outbound,786457,26,Wards Rd. (Southbound Infinity Tatoo),4,16,21,42,0,37.363865,-79.181998
+Sunday,4,Outbound,786287,28,River Ridge Mall (Southbound From Red Lobster),0,2,2,41,0,37.365886,-79.174775
+Sunday,4,Outbound,786286,29,River Ridge Mall (Exit Onto Candlers Mt. Rd. Past Red Lobster),0,0,1,41,0,37.366525,-79.174229
+Sunday,4,Outbound,785919,30,Candler"s Mt. Rd. (Southbound Beginning Of Trbc Parking Lot),0,1,2,40,0,37.363571,-79.171497
+Sunday,4,Outbound,785922,31,Candlers Mt. Rd. (Southbound Parking Lot Of Trbc),0,1,1,39,0,37.362139,-79.171636
+Sunday,4,Outbound,785923,32,Candlers Station Shopping Center,1,2,2,38,0,37.360604,-79.169503
+Sunday,4,Outbound,785925,33,Candlers Station Shopping Center (Dollar Movie Theater),0,0,1,38,0,37.358949,-79.169626
+Sunday,4,Outbound,785926,34,Candlers Station Shopping Center (Exiting Onto Candlers Mt. Rd.),0,0,0,37,0,37.358164,-79.170537
+Sunday,4,Outbound,786166,35,Liberty University- Green Hall Transfer Station,4,4,8,35,0,37.356757,-79.174200
+Sunday,4,Outbound,785969,36,Cvcc Campus Main Stop (2 Shleters),1,3,4,32,0,37.358842,-79.183360
+Sunday,4,Outbound,786461,37,Wards Rd. (Walmart Parking Lot),10,13,23,30,1,37.352571,-79.184902
+Sunday,4,Outbound,785833,38,Atlanta Ave. (Corner Of Wards Rd. In Front Of Orek Vacuum Store),2,2,3,30,0,37.349571,-79.186832
+Sunday,4,Outbound,786372,39,Target On Wards Rd,4,4,8,30,1,37.345073,-79.190896
+Sunday,4,Outbound,786351,40,Simons Run Rd. (Westbound Kohls Bus Stop),2,2,4,30,0,37.342561,-79.194461
+Sunday,4,Outbound,786350,41,Simons Run Rd. (Across From Kohls Shopping Center Parking Lot),1,1,2,30,0,37.342719,-79.191476
+Sunday,4,Outbound,786172,42,Lynchburg Regional Airport (Terminal Drive),0,0,0,3,0,37.330331,-79.193355
+Sunday,4,Outbound,786450,43,Wards Rd. (Northbound Spring Hill Suites),1,1,2,7,0,37.335006,-79.191527
+Sunday,4,Outbound,786446,44,Wards Rd. (Northbound Hilton Garden Inn),1,0,1,31,0,37.345352,-79.187861
+Sunday,4,Outbound,786444,45,Wards Rd. (Northbound Chick Fil-A),1,1,2,31,0,37.348525,-79.185966
+Sunday,4,Outbound,786451,46,Wards Rd. (Northbound Starbucks),1,0,1,32,0,37.351508,-79.184180
+Sunday,4,Outbound,786449,47,Wards Rd. (Northbound Sonic Burger),1,0,2,33,0,37.352679,-79.183485
+Sunday,4,Outbound,785924,49,Candlers Station Shopping Center (Dollar Movie Parking Lot),1,0,1,37,0,37.358636,-79.169631
+Sunday,4,Outbound,785927,50,Candlers Station Shopping Center (In Parking Lot),0,1,1,37,0,37.360942,-79.169413
+Sunday,4,Outbound,785920,51,Candlers Mountain Rd. (Northbound Applebee"s),1,0,1,37,0,37.362283,-79.171467
+Sunday,4,Outbound,786289,52,River Ridge Mall. (Northbound From Red Lobster),1,1,1,37,0,37.365863,-79.174934
+Sunday,4,Outbound,786288,53,River Ridge Mall Stop,8,4,12,41,0,37.363409,-79.180246
+Sunday,4,Outbound,786445,54,Wards Rd. (Northbound Goodwill Seminole Ave.),5,0,6,46,0,37.367445,-79.182678
+Sunday,4,Outbound,786447,55,Wards Rd. (Northbound In Front Of "Cash Loans On Car Titles"),1,0,1,47,0,37.368960,-79.183110
+Sunday,4,Outbound,786448,56,Wards Rd. (Northbound Koto Japanese Steakhouse),1,1,2,47,0,37.371545,-79.183811
+Sunday,4,Outbound,786443,57,Wards Rd. (Northbound Burlington Coat Factory),10,2,11,55,0,37.373727,-79.184725
+Sunday,4,Outbound,786452,58,Wards Rd. (Northbound Walgreens At Convergance Of Wards Rd And Fort Ave),6,1,7,60,0,37.375681,-79.185587
+Sunday,4,Outbound,786048,59,Fort Ave. (Northbound Before Lindsay St.),1,0,2,61,0,37.377565,-79.184667
+Sunday,4,Outbound,786049,60,Fort Ave. (Northbound Before Mckinney Ave.),0,0,1,61,0,37.380018,-79.182553
+Sunday,4,Outbound,786044,61,Fort Ave. (Northbound Across From Fire And Rescue Station #3),0,0,0,61,0,37.381335,-79.181396
+Sunday,4,Outbound,786050,62,Fort Ave. (Northbound Chesnut Hill United Methodist Church),1,0,1,62,0,37.382461,-79.180412
+Sunday,4,Outbound,786047,63,Fort Ave. (Northbound After Harding St.),0,0,0,62,0,37.384581,-79.178161
+Sunday,4,Outbound,786053,64,Fort Ave. (Northbound Liggates Rd.),0,0,1,62,0,37.386426,-79.176029
+Sunday,4,Outbound,786045,65,Fort Ave. (Northbound Addison St.),0,0,1,62,0,37.387635,-79.174796
+Sunday,4,Outbound,786054,66,Fort Ave. (Northbound Novell St.),0,0,0,62,0,37.389190,-79.173270
+Sunday,4,Outbound,786046,67,Fort Ave. (Northbound After Edley Pl. Split Of Fort Ave. And Memorial Ave.),4,4,8,62,0,37.390551,-79.171877
+Sunday,4,Outbound,786055,68,Fort Ave. (Northbound Rutherford St.),0,1,2,61,0,37.391755,-79.170570
+Sunday,4,Outbound,786051,69,Fort Ave. (Northbound Englewood St.),2,1,2,62,0,37.392820,-79.169446
+Sunday,4,Outbound,786052,70,Fort Ave. (Northbound First City Stadium Stop Across From East Grand Ave.),0,0,0,62,0,37.393440,-79.168768
+Sunday,4,Outbound,786056,71,Fort Ave. (Northbound Second City Stadium Stop),1,3,4,60,0,37.394367,-79.167788
+Sunday,4,Outbound,786041,72,Fort Ave. (Eastbound Spring Hill Cemetary Lancaster St.),1,0,1,60,0,37.397536,-79.164467
+Sunday,4,Outbound,786043,73,Fort Ave. (Northbound Across From Auto Zone),0,1,1,59,0,37.399398,-79.162488
+Sunday,4,Outbound,786272,74,Park Avenue And 12th Street,0,2,3,56,0,37.400946,-79.160843
+Sunday,4,Outbound,785810,75,Fort Ave. & Campbell Ave. (Inbound),1,8,9,48,0,37.403152,-79.158606
+Sunday,8,Outbound,786263,2,Buchanan St. ( Outbound From The Transfer Station),1,1,2,80,0,37.407462,-79.156373
+Sunday,8,Outbound,786271,3,Park Ave. (Westbound Place Stop Across From Corner Of Hutters Alley),1,1,2,81,0,37.404998,-79.158731
+Sunday,8,Outbound,4148394,4,LANGHORNE RD. & KINGSTON AVE,1,1,2,82,0,37.40607,-79.16073
+Sunday,8,Outbound,786158,5,Langhorne Rd. (WestboundCorner Of Miller Dr.),0,1,1,81,0,37.408374,-79.164310
+Sunday,8,Outbound,786152,6,Langhorne Rd. (Westbound Corner Of 3Rd St.),0,0,1,81,0,37.409030,-79.165405
+Sunday,8,Outbound,786154,7,Langhorne Rd. (Westbound Corner Of Hillcrest Ave.),3,1,4,83,0,37.410834,-79.168228
+Sunday,8,Outbound,786155,8,Langhorne Rd. (Westbound Corner Of Middlesex Ave.),0,0,0,83,0,37.411285,-79.169411
+Sunday,8,Outbound,786157,9,Langhorne Rd. (Westbound Stop Before Intersection With Atherholt Rd.),1,2,2,82,0,37.411615,-79.170223
+Sunday,8,Outbound,786151,10,Langhorne Rd. (Westbound Across Street From La Caretta,4,3,7,83,0,37.412769,-79.173164
+Sunday,8,Outbound,786150,11,Langhorne Rd. (Westbound Across From Holy Cross School),3,1,4,85,0,37.413636,-79.177164
+Sunday,8,Outbound,786153,12,Langhorne Rd. (Westbound Corner Of Clifton St.),0,0,1,85,0,37.413764,-79.179746
+Sunday,8,Outbound,786149,13,Langhorne Rd. (Westbound Across From Avante Nursing And Rehab Center),0,2,3,83,0,37.413696,-79.182371
+Sunday,8,Outbound,786156,14,Langhorne Rd. (Westbound Law Offices Across From Jewish Synagogue),2,3,4,82,0,37.413616,-79.184493
+Sunday,8,Outbound,786102,15,Hill St. (Southbound Corner Of Langhorne Rd.),0,0,0,82,0,37.413177,-79.187677
+Sunday,8,Outbound,3878403,18,HILL ST./ACROSS FROM CLEARBR,0,0,0,85,0,37.41138,-79.18714
+Sunday,8,Outbound,3878401,19,OLD FOREST RD./ACROSS FROM K,0,1,1,84,0,37.40789,-79.18885
+Sunday,8,Outbound,786239,20,Old Forest Rd. (Westbound Corner Of Range St.),0,0,0,84,0,37.409279,-79.193171
+Sunday,8,Outbound,786238,21,Old Forest Rd. (Westbound Corner Of Oak Hill Ave.),0,0,0,84,0,37.411008,-79.196110
+Sunday,8,Outbound,786233,22,Old Forest Rd. (Westbound Across From Legacy Oakes Pl.),0,0,0,84,0,37.412058,-79.199225
+Sunday,8,Outbound,786234,23,Old Forest Rd. (Westbound Across From Poindexter St.),2,6,8,80,0,37.412662,-79.200494
+Sunday,8,Outbound,785849,23,Birchwood Dr. (Birchwood Apartments Stop),5,3,8,107,0,37.410975,-79.188760
+Sunday,8,Outbound,4148399,24,OLD FOREST RD./LYNCHBURG GYN,0,1,1,80,0,37.41517,-79.20281
+Sunday,8,Outbound,785848,24,Birchwood Dr. (Birchwood Apartments Stop Ii),11,10,21,107,3,37.410546,-79.188727
+Sunday,8,Outbound,786167,25,Linkhorne Dr. (Westbound Across From West St.),1,1,2,79,0,37.415735,-79.204565
+Sunday,8,Outbound,786244,26,Old Forest Rd. (Westbound Intersection Of Link Rd.),0,0,1,78,0,37.414889,-79.207037
+Sunday,8,Outbound,786243,27,Old Forest Rd. (Westbound In Front Of Mcdonalds),1,1,2,78,0,37.414582,-79.208821
+Sunday,8,Outbound,786228,28,Old Forest Rd. (Outbound Corner Of Devonshire Rd.),0,2,2,76,0,37.414022,-79.210982
+Sunday,8,Outbound,786231,29,Old Forest Rd. (Walmart Stop),58,48,106,89,2,37.410413,-79.210715
+Sunday,8,Outbound,786232,30,Old Forest Rd. (Westbound Across From Biscuitville),2,5,7,49,0,37.410350,-79.213273
+Sunday,8,Outbound,786230,31,Old Forest Rd. (Outbound Corner Of Timber Court),2,1,3,49,0,37.409351,-79.214888
+Sunday,8,Outbound,786245,32,Old Forest Rd. (Westbound Sterling Park Apartments,0,0,0,49,0,37.408107,-79.217056
+Sunday,8,Outbound,786241,33,Old Forest Rd. (Westbound Corner Of Wiggington Rd.),0,0,0,49,0,37.406005,-79.220061
+Sunday,8,Outbound,786240,34,Old Forest Rd. (Westbound Corner Of Richeson Dr.),0,0,0,49,0,37.404125,-79.221179
+Sunday,8,Outbound,786235,35,Old Forest Rd. (Westbound Corner Of Chapel Ln.),0,0,0,49,0,37.399879,-79.223555
+Sunday,8,Outbound,2505501,36,Fresh Market 1,12,11,23,54,1,37.398419,-79.222558
+Sunday,8,Outbound,785809,37,Kemper Street Transfer Center,58,60,118,67,7,37.408105,-79.157322
+Sunday,8,Outbound,3878395,37,JEFFERSON RIDGE PKWY./JUST P,0,0,1,23,0,37.39837,-79.22373
+Sunday,8,Outbound,3878397,38,JEFFERSON RIDGE PKWY./JUST P,0,0,0,19,0,37.40066,-79.23267
+Sunday,8,Outbound,3878392,39,JEFFERSON RIDGE PKWY./TESSY,0,0,0,19,0,37.40462,-79.23664
+Sunday,8,Outbound,3878398,40,JEFFERSON RIDGE PKWY. IN FRO,0,0,0,19,0,37.40546,-79.23747
+Sunday,8,Outbound,2505550,41,Jefferson Ridge/Lynchpin Lane,0,0,0,20,0,37.407154,-79.239525
+Sunday,8,Outbound,3878399,42,JEFFERSON RIDGE PKWY./FRITO-,0,0,0,8,0,37.40421,-79.23740
+Sunday,8,Outbound,3878400,43,JEFFERSON RIDGE PKWY./IN FRO,0,0,0,8,0,37.40012,-79.23281
+Sunday,8,Outbound,3878396,44,JEFFERSON RIDGE PKWY./JUST B,1,0,1,8,0,37.39841,-79.22893
+Sunday,8,Outbound,785877,45,Breezewood Drive And Billy Craft Hyundai (Southbound),0,0,1,12,0,37.395544,-79.228332
+Sunday,8,Outbound,786227,47,Old Forest Rd. (Northbound Right Before Left Hand Turn Onto Expressway),0,0,0,31,0,37.400262,-79.223123
+Sunday,8,Outbound,3878402,47,OLD FOREST RD./IN FRONT OF K,0,0,1,55,0,37.40770,-79.18772
+Sunday,8,Outbound,786221,48,Old Forest Rd. (Northbound Corner Of Hollywood Dr.),0,0,0,31,0,37.405329,-79.220278
+Sunday,8,Outbound,785958,48,Clear Brook Nursing Home (Off Hill St. Across From Birchwood Dr.),0,0,0,40,0,37.410597,-79.186032
+Sunday,8,Outbound,786219,49,Old Forest Rd. (Northbound Across From Timber Court),1,0,2,32,0,37.409035,-79.215135
+Sunday,8,Outbound,786220,50,Old Forest Rd. (Northbound Corner Of Forest Brook Rd.),1,1,2,33,0,37.410713,-79.212747
+Sunday,8,Outbound,786217,52,Old Forest Rd. (Northbound Across From Devonshire Rd.),0,0,1,71,0,37.413984,-79.210779
+Sunday,8,Outbound,786226,53,Old Forest Rd. (Northbound In Front Of Dairy Queen),1,1,2,71,0,37.414465,-79.208310
+Sunday,8,Outbound,786224,54,Old Forest Rd. (Northbound Corner Of West St.),1,0,1,72,0,37.415522,-79.204837
+Sunday,8,Outbound,786223,55,Old Forest Rd. (Northbound Corner Of Poindexter St.),6,2,8,75,0,37.412579,-79.200552
+Sunday,8,Outbound,786218,56,Old Forest Rd. (Northbound Across From Oak Hill Ave.),0,0,0,75,0,37.410679,-79.195501
+Sunday,8,Outbound,785850,57,Birchwood Dr. (Norhtbound Corner Of Hill St.),4,1,5,78,0,37.411395,-79.187716
+Sunday,8,Outbound,786101,58,HILL ST. & LANGHORNE RD. (IN,0,0,0,79,0,37.41353,-79.18451
+Sunday,8,Outbound,786140,59,Langhorne Rd. (Eastbound Avante Nursing And Rehab Center),8,6,14,82,0,37.413590,-79.182372
+Sunday,8,Outbound,786139,60,Langhorne Rd. (Eastbound Across From Clifton St.),0,0,1,82,0,37.413613,-79.179803
+Sunday,8,Outbound,786144,61,Langhorne Rd. (Eastbound Holy Cross Catholic School),2,4,7,80,0,37.413465,-79.177214
+Sunday,8,Outbound,786145,62,Langhorne Rd. (Eastbound In Front Of La Caretta),2,2,3,80,0,37.412488,-79.173025
+Sunday,8,Outbound,786148,63,Langhorne Rd. (Eastbound Right Before Cvs),0,0,1,80,0,37.412099,-79.171978
+Sunday,8,Outbound,786141,64,Langhorne Rd. (Eastbound Corner Of Atherholt Rd.),2,1,3,80,0,37.411817,-79.171260
+Sunday,8,Outbound,786142,65,Langhorne Rd. (Eastbound Corner Of Carrington Rd.),1,1,3,80,0,37.410903,-79.168879
+Sunday,8,Outbound,786143,66,Langhorne Rd. (Eastbound Ec Glass Student Parking Lot),0,0,1,80,0,37.410040,-79.167205
+Sunday,8,Outbound,786147,67,Langhorne Rd. (Eastbound Main Entrance To Ec Glass High School),0,2,2,79,0,37.408778,-79.165346
+Sunday,8,Outbound,4148401,68,LANGHORNE RD. & 8TH ST. (INB,2,5,7,77,0,37.40683,-79.16082
+Sunday,8,Outbound,786257,69,Park Ave. (Eastbound Corner Of Hutters Alley),1,6,7,71,0,37.404850,-79.158885
+Sunday,10,Outbound,786263,2,Buchanan St. ( Outbound From The Transfer Station),3,2,5,55,0,37.407462,-79.156373
+Sunday,10,Outbound,786271,3,Park Ave. (Westbound Place Stop Across From Corner Of Hutters Alley),1,1,2,56,0,37.404998,-79.158731
+Sunday,10,Outbound,786270,4,Park Ave. (Westbound In Front Of Park Ave. Baptist Church),1,3,3,55,0,37.404489,-79.163290
+Sunday,10,Outbound,786267,5,Park Ave. (Westbound Across From Euclid Ave.),0,1,1,54,0,37.404304,-79.165293
+Sunday,10,Outbound,786198,7,Memorial Ave. (Southbound Corner Of Wilton Ave Across From Burger King),1,2,3,45,0,37.402423,-79.167736
+Sunday,10,Outbound,786196,8,Memorial Ave. (Southbound Corner Of Alleghany Ave.),1,1,2,44,0,37.400850,-79.168369
+Sunday,10,Outbound,786197,9,Memorial Ave. (Southbound Corner Of Talbot St.),4,4,8,44,0,37.398870,-79.169246
+Sunday,10,Outbound,785989,10,Eldon St. (Westbound Corner Of Memorial Ave In Front Of West Lynchburg Baptist Church),1,1,2,44,0,37.396879,-79.171207
+Sunday,10,Outbound,786138,11,Langhorne Ln. (Westbound First Stop After Turning Off Eldon St.),0,0,0,45,0,37.397293,-79.172298
+Sunday,10,Outbound,786136,12,Langhorne Ln. (Westbound Across From Albemarle St.),0,0,0,45,0,37.396835,-79.175112
+Sunday,10,Outbound,786137,13,Langhorne Ln. (Westbound Across From Wingfield Ave.),1,1,2,45,0,37.396559,-79.176798
+Sunday,10,Outbound,788278,14,Sussex St. (Southbound Across From Perry Ave.),0,0,0,44,0,37.394234,-79.179493
+Sunday,10,Outbound,788279,15,Sussex St. (Southbound Corner Of Mccausland St. Across From Oakridge Blvd.),0,0,0,44,0,37.391480,-79.181153
+Sunday,10,Outbound,788280,16,Sussex St. (Southbound Midblock Between Biltmore Ave. And Oakridge Blvd.),0,0,0,44,0,37.388895,-79.181319
+Sunday,10,Outbound,788281,17,Sussex St. (Southbound Corner Of Biltmore Ave.),0,0,0,44,0,37.387501,-79.182417
+Sunday,10,Outbound,3880726,18,PERRYMONT AVE. & ALEXANDER S,0,0,0,45,0,37.38855,-79.18449
+Sunday,10,Outbound,3880727,19,PERRYMONT AVE. ACROSS FROM P,0,0,0,45,0,37.39018,-79.18731
+Sunday,10,Outbound,3880728,20,PERRYMONT AVE. & THOMAS RD.,0,1,1,45,0,37.39198,-79.18876
+Sunday,10,Outbound,786388,21,Thomas Rd. (Westbound First Stop Past Westchester Dr.),1,0,1,46,0,37.391699,-79.190848
+Sunday,10,Outbound,786384,22,Thomas Rd. (Westbound Across From Meadowview Dr.),0,0,0,45,0,37.390823,-79.192732
+Sunday,10,Outbound,786385,23,Thomas Rd. (Westbound Across From Oakdale Dr.),1,1,1,45,0,37.389009,-79.195127
+Sunday,10,Outbound,786344,24,Sandusky Dr. (Southbound Corner Of Crawford Rd.),0,0,0,45,0,37.383750,-79.194983
+Sunday,10,Outbound,786343,25,Sandusky Dr. (Southbound Across From Kanawha Rd. ),0,0,0,45,0,37.380415,-79.194859
+Sunday,10,Outbound,786281,25,Plaza Transfer Center,16,13,29,62,0,37.404307,-79.168678
+Sunday,10,Outbound,786277,26,Pawnee Dr. (Westbound) Across From Sandusky Dr._Where The Two Roads Split),0,0,0,45,0,37.379672,-79.196713
+Sunday,10,Outbound,786278,27,Pawnee Dr. (Westbound) Corner Of Sanhill Dr.),1,1,2,45,0,37.379588,-79.198745
+Sunday,10,Outbound,786276,28,Pawnee Dr. (Westbound) Across From Longmeadows Dr.),0,0,1,45,0,37.378387,-79.202050
+Sunday,10,Outbound,785809,29,Kemper Street Transfer Center,40,38,78,47,1,37.408105,-79.157322
+Sunday,10,Outbound,786168,29,Long Meadows Dr. (Eastbound Corner Of Pawtucket Dr.),1,0,1,45,0,37.377393,-79.200853
+Sunday,10,Outbound,3880733,30,LONG MEADOWS DR. & IGLOE DR.,1,2,3,44,0,37.37652,-79.19424
+Sunday,10,Outbound,786075,31,Fort Hill Shopping Center 2,7,14,22,38,0,37.373369,-79.194720
+Sunday,10,Outbound,786170,32,Long Meadows Dr. (Southbound Wesly Apartments),2,1,3,39,0,37.373392,-79.198723
+Sunday,10,Outbound,786169,33,Long Meadows Dr. (Southbound Before Intersection With Fort Ave.),1,0,2,40,0,37.370811,-79.197249
+Sunday,10,Outbound,2505564,34,Fort Ave. Lynchburg Pawn Westbound,0,0,0,40,0,37.369869,-79.197757
+Sunday,10,Outbound,786058,35,Fort Ave. (Westbound Across From Fenwick Dr.),1,1,2,39,0,37.368740,-79.199619
+Sunday,10,Outbound,786288,36,River Ridge Mall Stop,16,20,36,36,0,37.363409,-79.180246
+Sunday,10,Outbound,786038,37,Fort Ave. (Eastbound Corner Of Fenwick Dr.),0,0,0,24,0,37.368529,-79.199451
+Sunday,10,Outbound,788296,38,Long Meadows Dr. (Northbound First Stop Off Fort Ave.),1,1,2,25,0,37.370851,-79.197149
+Sunday,10,Outbound,788297,39,Long Meadows Dr. (Northbound Across From Wesley Apartments),1,0,1,19,0,37.373390,-79.198587
+Sunday,10,Outbound,788298,40,Long Meadows Dr. (Westbound Across From Pawtucket Dr.),0,0,0,26,0,37.377558,-79.200951
+Sunday,10,Outbound,788299,41,Pawnee Dr. (Eastbound Across From Sanhill Dr.),2,0,2,28,0,37.379457,-79.198903
+Sunday,10,Outbound,788300,42,Sandusky Dr. (Eastbound Corner Of Pawnee Dr.),1,1,1,28,0,37.379579,-79.196539
+Sunday,10,Outbound,788301,43,Sandusky Dr. (Inbound Corner Of Kanawha Rd.),0,0,0,28,0,37.380511,-79.194702
+Sunday,10,Outbound,788302,44,Sandusky Dr. (Northbound Corner Of Crawford Rd.),0,0,0,28,0,37.383931,-79.194881
+Sunday,10,Outbound,788303,45,Sandusky Dr. (Northbound Across From Rhonda Rd.),0,0,0,28,0,37.386631,-79.195296
+Sunday,10,Outbound,788304,46,Sandusky Dr. (Northbound Corner Of Oakdale Dr.),0,0,0,29,0,37.389358,-79.194755
+Sunday,10,Outbound,788305,47,Greenwood Dr. (Eastbound First Stop Past Meadowview Dr.),0,0,0,29,0,37.391192,-79.191665
+Sunday,10,Outbound,788306,48,Greenwood Dr. (Eastbound Corner Of Perrymont Ave.),2,1,3,30,0,37.392266,-79.189341
+Sunday,10,Outbound,3880729,49,PERRYMONT AVE. & GOLF PARK D,0,0,0,22,0,37.39168,-79.18868
+Sunday,10,Outbound,3880730,50,PERRYMONT AVE./PERRYMONT ELE,1,0,1,22,0,37.38995,-79.18736
+Sunday,10,Outbound,3880731,51,PERRYMONT AVE. & FAIRMONT AV,0,1,1,21,0,37.38806,-79.17922
+Sunday,10,Outbound,786371,52,Sussex St. (Northbound Midblock Between Biltmore Ave And Oakridge Blvd.),0,0,0,29,0,37.389171,-79.181210
+Sunday,10,Outbound,786368,53,Sussex St. (Northbound Across St. From Mccausland St.),0,0,0,29,0,37.391129,-79.181220
+Sunday,10,Outbound,786369,54,Sussex St. (Northbound Corner Of Warren Ave.),0,0,0,29,0,37.393082,-79.180018
+Sunday,10,Outbound,786370,55,Sussex St. (Northbound Corner Of Yeardley Ave.),0,0,0,29,0,37.395548,-79.178583
+Sunday,10,Outbound,786135,56,Langhorne Ln. (Eastbound Corner Of Wingfield Ave.),0,0,0,29,0,37.396448,-79.177223
+Sunday,10,Outbound,786134,57,Langhorne Ln. (Eastbound Corner Of Wilson Ave.),0,1,1,28,0,37.397002,-79.173426
+Sunday,10,Outbound,786133,58,Langhorne Ln. (Eastbound Corner Of Eldon St.),0,1,1,27,0,37.397231,-79.172145
+Sunday,10,Outbound,785988,59,Eldon St. (Southbound Corner Of Memorial Ave. Across Street From West Lynchburg Baptist Church),1,1,2,26,0,37.396725,-79.171175
+Sunday,10,Outbound,786194,60,Memorial Ave. (Northbound First Stop On Memorial From Oakley Ave.),3,2,5,27,0,37.398424,-79.169439
+Sunday,10,Outbound,786193,61,Memorial Ave. (Northbound Corner Of St. Augustine St.),0,1,2,27,0,37.400757,-79.168231
+Sunday,10,Outbound,786192,62,Memorial Ave. (Inbound In Front Of Burger King),3,1,3,29,0,37.402399,-79.167568
+Sunday,10,Outbound,786259,64,Park Ave. (Eastbound Corner Of Park Ln.),0,0,0,42,0,37.404255,-79.164761
+Sunday,10,Outbound,786260,65,Park Ave. (Eastbound Miller Park Stop),6,3,9,46,0,37.404398,-79.163188
+Sunday,10,Outbound,786257,66,Park Ave. (Eastbound Corner Of Hutters Alley),0,2,2,44,0,37.404850,-79.158885
+Sunday,12X,Outbound,786263,2,Buchanan St. ( Outbound From The Transfer Station),28,20,48,47,0,37.407462,-79.156373
+Sunday,12X,Outbound,786110,2,Lakeside Dr. (Eastbound Across From Whitehall Rd.),0,0,0,5,0,37.397731,-79.219613
+Sunday,12X,Outbound,786275,3,Park Avenue And Langhorne Road (Westbound),7,5,12,55,0,37.403231,-79.158753
+Sunday,12X,Outbound,786111,3,Lakeside Dr. (Eastbound Across From Zip Gas),0,0,0,4,0,37.398070,-79.217919
+Sunday,12X,Outbound,786273,4,Fort Ave. & Marsh St. ( Outbound),0,3,3,56,0,37.401933,-79.160084
+Sunday,12X,Outbound,786117,4,Lakeside Dr. (Eastbound Moose Lodge),0,0,0,5,0,37.398561,-79.215524
+Sunday,12X,1,786432,5,Wadsworth St. (Westbound Corner Of Marsh St.),0,0,0,53,0,37.400973,-79.161965
+Sunday,12X,Outbound,786108,5,Lakeside Dr. (Eastbound Across From Little Dickens Bookstore),0,1,1,4,0,37.399100,-79.210324
+Sunday,12X,1,786431,6,Wadsworth St. (Westbound Corner Of Glenwood St.),0,0,0,53,0,37.401624,-79.163533
+Sunday,12X,Outbound,786114,6,Lakeside Dr. (Eastbound In Front Of Central Virginia Physicians),1,0,1,5,0,37.399335,-79.207450
+Sunday,12X,Outbound,786118,7,Lakeside Dr. (Eastbound Walden Pond Apartments Stop),1,0,1,5,0,37.400338,-79.202360
+Sunday,12X,1,3478097,7,Wadsworth St. Outbound (Across from Park View United Methodist Church),0,2,2,51,0,37.403013,-79.166838
+Sunday,12X,1,786198,8,Memorial Ave. (Southbound Corner Of Wilton Ave Across From Burger King),0,1,2,50,0,37.402423,-79.167736
+Sunday,12X,Outbound,786109,8,Lakeside Dr. (Eastbound Across From Ralph"s Green Grocery Stand),0,0,0,5,0,37.401564,-79.200158
+Sunday,12X,1,786196,9,Memorial Ave. (Southbound Corner Of Alleghany Ave.),1,2,3,49,0,37.400850,-79.168369
+Sunday,12X,Outbound,786112,9,Lakeside Dr. (Eastbound Corner Of Faculty Dr.),0,0,0,5,0,37.401695,-79.190078
+Sunday,12X,1,786197,10,Memorial Ave. (Southbound Corner Of Talbot St.),1,2,3,47,0,37.398870,-79.169246
+Sunday,12X,Outbound,786116,10,Lakeside Dr. (Eastbound Lynchburg College Stop),0,0,1,5,0,37.401679,-79.182628
+Sunday,12X,1,786209,11,Oakley Ave. (Westbound Corner Of Norma St.),0,1,1,47,0,37.398821,-79.171092
+Sunday,12X,Outbound,786113,11,Lakeside Dr. (Eastbound Corner Of Hood St.),1,0,1,6,0,37.402560,-79.179461
+Sunday,12X,Outbound,786212,12,Oakley Avenue And Macon Street (Westbound),1,0,1,7,0,37.402468,-79.177249
+Sunday,12X,1,786208,12,Oakley Ave. (Eastbound First Stop On Oakley From Richmond St.),0,0,0,47,0,37.399626,-79.172444
+Sunday,12X,1,786210,13,Oakley Ave. (Westbound Corner Of Richmond St.),0,0,0,46,0,37.400322,-79.173368
+Sunday,12X,Outbound,786207,13,Oakley Ave. (Eastbound Corner Of Norma St.),0,1,1,6,0,37.398655,-79.171044
+Sunday,12X,1,786211,14,Oakley Avenue And Macon Street (Eastbound),3,3,6,47,0,37.402600,-79.177138
+Sunday,12X,Outbound,786194,14,Memorial Ave. (Northbound First Stop On Memorial From Oakley Ave.),2,0,3,8,0,37.398424,-79.169439
+Sunday,12X,Outbound,786193,15,Memorial Ave. (Northbound Corner Of St. Augustine St.),1,0,1,8,0,37.400757,-79.168231
+Sunday,12X,1,786125,15,Lakeside Dr. (Westbound Corner Of Hood St.),1,0,2,48,0,37.402892,-79.179064
+Sunday,12X,Outbound,786192,16,Memorial Ave. (Inbound In Front Of Burger King),0,1,1,8,0,37.402399,-79.167568
+Sunday,12X,1,786123,16,Lakeside Dr. (Westbound Corner Of Demott St.),0,0,0,48,0,37.401804,-79.189746
+Sunday,12X,1,786128,17,Lakeside Dr. (Westbound Veteren"s Affairs),0,0,0,48,0,37.401468,-79.200595
+Sunday,12X,Outbound,3478096,17,Wadsworth St. Inbound (Park View United Methodist Church),0,0,1,9,0,37.402905,-79.166916
+Sunday,12X,Outbound,786430,18,Wadsworth St. (Eastbound Corner Of Glenwood St.),0,0,0,9,0,37.401622,-79.163767
+Sunday,12X,1,786126,18,Lakeside Dr. (Westbound First Stop Past Lemon Dr.),0,0,0,48,0,37.399893,-79.204063
+Sunday,12X,Outbound,786429,19,Wadsworth St. (Eastbound Across From Marsh St.),0,0,0,9,0,37.400910,-79.162091
+Sunday,12X,1,786124,19,Lakeside Dr. (Westbound Corner Of Forest Brook Rd.),1,1,2,48,0,37.399357,-79.208838
+Sunday,12X,1,4146994,20,LAKESIDE DR./FOREST HILL CEM,0,0,0,48,0,37.39874,-79.21507
+Sunday,12X,1,786122,21,Lakeside Dr. (Westbound Corner Of Countryplace Ln.),0,0,0,48,0,37.398694,-79.215551
+Sunday,12X,1,786120,22,Lakeside Dr. (Outbound Corner Of Whitehall Rd.),0,0,1,48,0,37.397823,-79.219984
+Sunday,12X,Outbound,785809,22,Kemper Street Transfer Center,21,4,25,75,0,37.408105,-79.157322
+Sunday,12X,Outbound,2505501,23,Fresh Market 1,4,4,9,48,0,37.398419,-79.222558
+Sunday,12X,Outbound,786272,42,Park Avenue And 12th Street,0,0,0,26,0,37.400946,-79.160843
+Sunday,12X,Outbound,785810,43,Fort Ave. & Campbell Ave. (Inbound),2,1,3,36,0,37.403152,-79.158606
+Sunday,6/7X,Outbound,786442,2,Wards Rd. (In Front Of Berlund Toyota Used Car Lot),2,2,4,13,0,37.360683,-79.181215
+Sunday,6/7X,Outbound,785969,3,Cvcc Campus Main Stop (2 Shleters),0,0,1,13,0,37.358842,-79.183360
+Sunday,6/7X,1,2505494,4,CVCC Campus Dr/Wards Ferry Rd,0,0,0,7,0,37.356241,-79.188567
+Sunday,6/7X,1,786438,5,Wards Ferry Rd. (Southbound Corner Of Havenwood Dr.),0,0,0,7,0,37.352950,-79.189868
+Sunday,6/7X,1,786440,6,Wards Ferry Rd. (Southbound Corner Of Walton Dr.),0,0,0,8,0,37.349643,-79.192758
+Sunday,6/7X,1,786437,7,Wards Ferry Rd. (Southbound Corner Of Alta Ln.),0,0,0,8,0,37.346429,-79.192455
+Sunday,6/7X,1,786439,8,Wards Ferry Rd. (Southbound Corner Of Melinda Dr.),0,0,0,8,0,37.345125,-79.192283
+Sunday,6/7X,Outbound,786350,9,Simons Run Rd. (Across From Kohls Shopping Center Parking Lot),0,1,1,8,0,37.342719,-79.191476
+Sunday,6/7X,Outbound,786164,11,Leesville Rd. (Northbound Corner Of Delray Circle),0,0,1,8,0,37.342245,-79.206916
+Sunday,6/7X,1,786161,12,Leesville Rd. (Northbound Across From Mcveigh Rd.),0,1,1,7,0,37.344292,-79.206124
+Sunday,6/7X,Outbound,2505501,12,Fresh Market 1,3,1,4,3,1,37.398419,-79.222558
+Sunday,6/7X,1,786162,13,Leesville Rd. (Northbound Across From Traylor Ln.),0,0,0,7,0,37.351070,-79.205868
+Sunday,6/7X,1,786165,14,Leesville Rd. (Northbound Corner Of Village Rd.),0,0,0,7,0,37.355673,-79.207312
+Sunday,6/7X,Outbound,4148433,15,NATIONWIDE DR./WOMEN S HEALT,0,0,0,1,0,37.38247,-79.21931
+Sunday,6/7X,1,786163,15,Leesville Rd. (Northbound Corner Of Adams Dr.),0,0,0,7,0,37.361119,-79.208819
+Sunday,6/7X,Outbound,2505502,16,Nationwide,0,0,0,1,0,37.381758,-79.212923
+Sunday,6/7X,1,786399,16,Timberlake Rd. (Westbound Corner Of Middleview St.),0,0,0,7,0,37.361945,-79.210526
+Sunday,6/7X,1,786398,17,Timberlake Rd. (Westbound Across From Misty Mountain Rd.),0,0,1,8,0,37.360408,-79.212992
+Sunday,6/7X,Outbound,4148434,17,NATIONWIDE DR./CENTRA LYNCHB,0,0,0,1,0,37.38042,-79.21445
+Sunday,6/7X,1,786401,18,Timberlake Rd. (Westbound In Front Of Bojangles),1,2,3,6,0,37.352175,-79.227097
+Sunday,6/7X,Outbound,4148435,18,NATIONWIDE DR./GASTROENTEROL,0,0,0,1,0,37.37992,-79.21460
+Sunday,6/7X,Outbound,786402,19,Timberlake Rd. (Westbound In Front Of Dairy Queen),0,0,0,6,0,37.349451,-79.231031
+Sunday,6/7X,Outbound,786400,20,Timberlake Rd. (Westbound Corner Of Wood Rd.),0,1,1,6,0,37.347433,-79.232871
+Sunday,6/7X,Outbound,786404,21,Timberlake Road And Greenview Drive (Westbound) Lynchburg Credit Union,0,1,1,5,0,37.344059,-79.234999
+Sunday,6/7X,1,786407,22,Timberlake Road And Silverspring Road (Westbound),0,0,0,5,0,37.338100,-79.239490
+Sunday,6/7X,1,786406,23,Timberlake Road And Jordan Drive (Westbound),0,1,1,5,0,37.334053,-79.242715
+Sunday,6/7X,1,786405,25,Timberlake Road And Jordan Drive (Eastbound),0,0,0,6,0,37.333838,-79.242490
+Sunday,6/7X,1,3478115,26,Timberlake Rd. Just Beyond Burger King (Inbound),0,0,0,5,0,37.335125,-79.241493
+Sunday,6/7X,1,786408,27,Timberlake Road And Silversprings Drive (Eastbound),0,0,0,5,0,37.338220,-79.238984
+Sunday,6/7X,1,786403,28,Timberlake Road And Dav Store (Eastbound),0,0,0,6,0,37.343460,-79.234983
+Sunday,6/7X,Outbound,786160,29,Laxton Rd. (Westbound First Stop Off Of Timberlake Rd.),0,0,0,6,0,37.346560,-79.234842
+Sunday,6/7X,Outbound,785994,30,Enterprise Dr. (Northbound Corner Of Laxton Rd.),0,0,1,6,0,37.348777,-79.242339
+Sunday,6/7X,Outbound,785991,31,Enterprise Dr. (Corner Of Duncraig Drive Northbound),0,0,0,6,0,37.354588,-79.240700
+Sunday,6/7X,Outbound,785996,32,Enterprise Dr. (Northbound Corner Of Tradewynd Dr.),0,0,0,6,0,37.356671,-79.240771
+Sunday,6/7X,Outbound,786288,32,River Ridge Mall Stop,9,4,13,15,4,37.363409,-79.180246
+Sunday,6/7X,Outbound,785997,33,Enterprise Dr. (Northbound Corner Of Wyndhurst Dr.),0,0,0,6,0,37.360410,-79.241451
+Sunday,6/7X,Outbound,785995,34,Enterprise Dr. (Northbound Corner Of Paulette Cir.),0,1,1,6,0,37.361944,-79.245464
+Sunday,6/7X,Outbound,785990,35,Enterprise Dr. (Northbound Corner Of Dillard Dr.),0,0,0,5,0,37.365768,-79.248725
+Sunday,6/7X,Outbound,785972,36,Dillard Dr. (Eastbound First Stop Off Enterprise Dr.),0,0,0,6,0,37.366993,-79.246246
+Sunday,6/7X,Outbound,785973,37,Dillard Dr. (Eastbound Second Stop Off Enterprise Dr. ),0,0,0,6,0,37.367543,-79.243782
+Sunday,6/7X,Outbound,785974,38,Dillard Dr. (J Crew Distribution Center),0,0,1,6,0,37.368232,-79.242025
+Sunday,6/7X,Outbound,4223975,38,DILLARD DRIVE/ACROSS FROM VI,0,0,0,1,0,37.36781,-79.24534
+Sunday,6/7X,Outbound,785993,39,Enterprise Dr. (Northbound Corner Of Brook Park Pl.),0,0,1,1,0,37.368081,-79.251553
+Sunday,6/7X,Outbound,785992,40,Enterprise Dr. (Northbound Across From Annjo Court),0,0,0,1,0,37.369609,-79.252715
+Sunday,6/7X,Outbound,786033,41,Forest Rd. Us221 (Eastbound In Front Of Exxon),0,0,0,1,0,37.375118,-79.249251
+Sunday,6/7X,Outbound,786032,42,Forest Rd. Us 221 (Eastbound In Front Of Burger King),0,1,1,1,0,37.377594,-79.248426
+Sunday,6/7X,Outbound,786094,43,Graves Mill Rd. (Eastbound Inbound First Stop Past Gristmill Dr.),0,0,0,1,0,37.377446,-79.243806
+Sunday,6/7X,Outbound,786090,44,Graves Mill Rd. (Eastbound Corner Of Mill Race Dr.),0,0,0,1,0,37.376815,-79.240221
+Sunday,6/7X,Outbound,786088,45,Graves Mill Rd. (Eastbound Across From Lillian Ln.),0,0,0,1,0,37.376887,-79.238285
+Sunday,6/7X,Outbound,786093,46,Graves Mill Rd. (Eastbound First Stop Past Lillian Ln. Other Side Of The Street),0,0,0,1,0,37.376912,-79.236062
+Sunday,6/7X,Outbound,2505565,49,Creekside Ln./Home Depot,0,0,0,2,0,37.376406,-79.225573
+Sunday,6/7X,Outbound,786092,50,Graves Mill Rd. (Eastbound Corner Of Old Graves Mill Rd.),0,0,0,2,0,37.375848,-79.223677
+Sunday,6/7X,Outbound,786091,52,Graves Mill Rd. (Eastbound Corner Of Nationwide Dr.),1,1,1,2,0,37.377565,-79.217027
+Sunday,6/7X,Outbound,786087,53,Graves Mill Rd. (Eastbound Across From Leroy Bowen Dr.),0,0,0,4,0,37.374648,-79.212582
+Sunday,6/7X,Outbound,3478114,54,Old Mill Apartments,0,0,0,4,0,37.375242,-79.206924
+Sunday,6/7X,Outbound,786089,55,Graves Mill Rd. (Eastbound Across From Old Mill Rd.),1,0,1,5,0,37.371746,-79.208210
+Sunday,6/7X,Outbound,3478113,56,Logans Landing Apartments,0,0,1,5,0,37.366807,-79.207407
+Sunday,6/7X,Outbound,786436,57,Wards Ferry Rd. (Southbound Corner Of Adams Dr.),0,0,0,5,0,37.362921,-79.204154
+Sunday,6/7X,Outbound,786435,58,Wards Ferry Rd. (Southbound Corner Of Aaron Pl.),0,0,0,5,0,37.361396,-79.201478
+Sunday,6/7X,Outbound,786433,59,Wards Ferry Rd. (Lynchburg First Church Of The Nazarene),0,0,0,5,0,37.361049,-79.196378
+Sunday,6/7X,Outbound,2505498,60,Wards Ferry Rd. Stop 4,0,0,0,5,0,37.361104,-79.193044
+Sunday,6/7X,Outbound,2505496,61,Wards Ferry Rd. Stop 2,0,0,0,5,0,37.358902,-79.190632
+Sunday,6/7X,Outbound,786434,62,Wards Ferry Rd. (Southbound Across From Havard St. And Cvcc Campus),0,0,0,5,0,37.356247,-79.188875
+Sunday,6/7X,Outbound,2505549,63,CVCC Inbound Stop,0,0,0,5,0,37.356408,-79.184896
+Sunday,6/7X,Outbound,786441,64,Wards Rd (Northbound Bergulnd Toyota),1,0,1,11,0,37.358723,-79.180549
