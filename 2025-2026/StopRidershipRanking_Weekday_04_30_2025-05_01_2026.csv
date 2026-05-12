@@ -162,14 +162,14 @@ Weekday,786459,Wards Rd. (Southbound Wendy's Across From Burlington Coat Factory
 Weekday,786471,Woodys Lake Rd. (Walmart Stop Madison Heights),3,3,5,11,0,37.460826,-79.116695
 Weekday,788296,Long Meadows Dr. (Northbound First Stop Off Fort Ave.),3,2,5,11,0,37.370851,-79.197149
 Weekday,785819,16th St. & Taylor St. (Outbound),1,2,4,44,0,37.403967,-79.146402
-Weekday,785830,Atherholt Rd. (Eastbound New Doctor"s Office Across From Surgery Center),3,1,4,57,0,37.408142,-79.177442
+Weekday,785830,Atherholt Rd. (Eastbound New Doctor's Office Across From Surgery Center),3,1,4,57,0,37.408142,-79.177442
 Weekday,785884,Buena Vista St. (Corner Of Poplar St.),1,2,4,17,0,37.402400,-79.134788
 Weekday,785890,Campbell Ave. (Eastbound Corner Of Dewitt St.),2,2,4,87,0,37.395377,-79.150824
 Weekday,785896,Campbell Ave. (Eastbound Corner Of Kent St.),1,3,4,79,0,37.387086,-79.143220
 Weekday,785899,Campbell Ave. (Eastbound Corner Of Otey St.),1,3,4,85,0,37.392111,-79.147895
 Weekday,785905,Campbell Ave. (Inbound Corner Of Ridge Ave.),3,1,4,53,0,37.385467,-79.141463
 Weekday,785907,Campbell Ave. (Westbound Corner Of Dewitt St.),2,2,4,61,0,37.395321,-79.150605
-Weekday,785920,Candlers Mountain Rd. (Northbound Applebee"s),3,1,4,54,0,37.362283,-79.171467
+Weekday,785920,Candlers Mountain Rd. (Northbound Applebee's),3,1,4,54,0,37.362283,-79.171467
 Weekday,785927,Candlers Station Shopping Center (In Parking Lot),3,1,4,52,0,37.360942,-79.169413
 Weekday,785956,Clay St. (Southbound Corner Of Eleventh St.),2,3,4,62,0,37.411789,-79.143719
 Weekday,786031,Florida Ave. (Southbound In Front Of Food Lion),1,2,4,38,0,37.383503,-79.132457
@@ -187,7 +187,7 @@ Weekday,786298,Rivermont Ave. (Eastbound Corner Of D St.),1,2,4,80,0,37.421205,-
 Weekday,786311,Rivermont Ave. (Westbound Across From Holly St.),2,2,4,49,0,37.433728,-79.159018
 Weekday,786322,Rivermont Ave. (Westbound Corner Of Langhorne Rd.),1,3,4,77,0,37.439141,-79.181775
 Weekday,786381,Tate Springs Rd. (Westbound Central Virginia Physicians),3,1,4,41,0,37.413892,-79.173390
-Weekday,786447,Wards Rd. (Northbound In Front Of "Cash Loans On Car Titles"),2,2,4,80,0,37.368960,-79.183110
+Weekday,786447,Wards Rd. (Northbound In Front Of 'Cash Loans On Car Titles'),2,2,4,80,0,37.368960,-79.183110
 Weekday,788306,Greenwood Dr. (Eastbound Corner Of Perrymont Ave.),3,1,4,15,0,37.392266,-79.189341
 Weekday,785812,15Th St. & Buchanan St. (Outbound),1,2,3,46,0,37.402122,-79.151860
 Weekday,785813,15Th St. & Pierce St. (Outbound),1,2,3,46,0,37.402707,-79.150791
@@ -368,7 +368,7 @@ Weekday,785901,Campbell Ave. (Eastbound Corner Of South Durham St.),0,0,1,73,0,3
 Weekday,785912,Campbell Ave. (Westbound Corner Of King St.),1,0,1,45,0,37.382689,-79.140141
 Weekday,785915,Campbell Ave. (Westbound Corner Of Texas Ave.),1,0,1,45,0,37.382270,-79.138505
 Weekday,785917,Campbell Ave. (Westbound First Stop After Going Over Lynchburg Expressway Going Toward Twelfth St.),1,1,1,62,0,37.399656,-79.154582
-Weekday,785919,Candler"s Mt. Rd. (Southbound Beginning Of Trbc Parking Lot),0,1,1,103,0,37.363571,-79.171497
+Weekday,785919,Candler's Mt. Rd. (Southbound Beginning Of Trbc Parking Lot),0,1,1,103,0,37.363571,-79.171497
 Weekday,785925,Candlers Station Shopping Center (Dollar Movie Theater),0,1,1,99,0,37.358949,-79.169626
 Weekday,785928,Caroline St. (Eastbound Corner Of York St.),0,0,1,19,0,37.413906,-79.163439
 Weekday,785939,Chambers St. (Northbound Corner Of 2nd St.),1,1,1,38,0,37.412664,-79.161319
@@ -393,7 +393,7 @@ Weekday,786028,Florida Ave. (Southbound Corner Of Gilmore Circle),1,0,1,40,0,37.
 Weekday,786039,Fort Ave. (Eastbound Corner Of John Lynch Pl.),1,0,1,11,0,37.372292,-79.194123
 Weekday,786044,Fort Ave. (Northbound Across From Fire And Rescue Station #3),1,0,1,130,0,37.381335,-79.181396
 Weekday,786045,Fort Ave. (Northbound Addison St.),0,1,1,130,0,37.387635,-79.174796
-Weekday,786072,Fort Ave. (Westbound Tolley"s" Ln.),0,1,1,229,0,37.380894,-79.181999
+Weekday,786072,Fort Ave. (Westbound Tolley's' Ln.),0,1,1,229,0,37.380894,-79.181999
 Weekday,786074,Fort Hill (Westbound Marathon Gas Station Right Past Fort Hill Shopping Center),0,1,1,27,0,37.371127,-79.195975
 Weekday,786077,Grace St. (Eastbound Across Street From Maple St.),0,1,1,43,0,37.402142,-79.138497
 Weekday,786101,HILL ST & LANGHORNE RD (INBO,1,1,1,63,0,37.413600,-79.185970
@@ -404,7 +404,7 @@ Weekday,786117,Lakeside Dr. (Eastbound Moose Lodge),1,0,1,46,0,37.398561,-79.215
 Weekday,786120,Lakeside Dr. (Outbound Corner Of Whitehall Rd.),0,1,1,43,0,37.397823,-79.219984
 Weekday,786122,Lakeside Dr. (Westbound Corner Of Countryplace Ln.),0,1,1,43,0,37.398694,-79.215551
 Weekday,786123,Lakeside Dr. (Westbound Corner Of Demott St.),0,1,1,49,0,37.401804,-79.189746
-Weekday,786128,Lakeside Dr. (Westbound Veteren"s Affairs),0,1,1,49,0,37.401468,-79.200595
+Weekday,786128,Lakeside Dr. (Westbound Veteren's Affairs),0,1,1,49,0,37.401468,-79.200595
 Weekday,786132,Lakeview Dr. (Westbound In Front Of La Caretta),1,0,1,10,0,37.441447,-79.118256
 Weekday,786133,Langhorne Ln. (Eastbound Corner Of Eldon St.),0,1,1,18,0,37.397231,-79.172145
 Weekday,786138,Langhorne Ln. (Westbound First Stop After Turning Off Eldon St.),0,0,1,33,0,37.397293,-79.172298
@@ -525,7 +525,7 @@ Weekday,786066,Fort Ave. (Westbound Fort Hill Shopping Center Exit),0,0,0,27,0,3
 Weekday,786068,Fort Ave. (Westbound Lindsay St.),0,0,0,227,0,37.378006,-79.184524
 Weekday,786085,Grace St. (Westbound Corner Of Maple St.),0,0,0,17,0,37.402106,-79.138243
 Weekday,786103,Hillcrest Ave. (Eastbound Corner Of Patrick St.),0,0,0,19,0,37.412867,-79.165158
-Weekday,786109,Lakeside Dr. (Eastbound Across From Ralph"s Green Grocery Stand),0,0,0,51,0,37.401564,-79.200158
+Weekday,786109,Lakeside Dr. (Eastbound Across From Ralph's Green Grocery Stand),0,0,0,51,0,37.401564,-79.200158
 Weekday,786111,Lakeside Dr. (Eastbound Across From Zip Gas),0,0,0,46,0,37.398070,-79.217919
 Weekday,786112,Lakeside Dr. (Eastbound Corner Of Faculty Dr.),0,0,0,51,0,37.401695,-79.190078
 Weekday,786113,Lakeside Dr. (Eastbound Corner Of Hood St.),0,0,0,53,0,37.402560,-79.179461

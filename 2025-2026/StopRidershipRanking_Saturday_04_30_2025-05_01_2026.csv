@@ -120,7 +120,7 @@ Saturday,786411,Twelfth St. (Eastbound Corner Of Floyd St.),1,3,4,58,0,37.406336
 Saturday,786418,Twelfth St. (Westbound Corner Of Floyd St.),1,2,4,42,0,37.406379,-79.150981
 Saturday,786420,Twelfth St. (Westbound Corner Of Taylor St.),2,2,4,44,0,37.407209,-79.149491
 Saturday,786453,Wards Rd. (Southbound Big-K),2,2,4,114,0,37.368376,-79.183175
-Saturday,786459,Wards Rd. (Southbound Wendy"s Across From Burlington Coat Factory),1,3,4,121,0,37.373548,-79.184915
+Saturday,786459,Wards Rd. (Southbound Wendy's Across From Burlington Coat Factory),1,3,4,121,0,37.373548,-79.184915
 Saturday,786474,Yorktown Ave. (Langview Apartments),2,2,4,36,0,37.411083,-79.175953
 Saturday,788296,Long Meadows Dr. (Northbound First Stop Off Fort Ave.),3,1,4,14,0,37.370851,-79.197149
 Saturday,4148401,LANGHORNE RD & 8TH ST (INBOU,0,3,4,59,0,37.406970,-79.160770
@@ -159,7 +159,7 @@ Saturday,786325,Rivermont Ave. (Westbound Corner Of Randolph St.),1,2,3,30,0,37.
 Saturday,786334,Rivermont Ave. (Westbound Randolph College Entrance),1,2,3,56,0,37.436876,-79.173597
 Saturday,786381,Tate Springs Rd. (Westbound Central Virginia Physicians),2,1,3,33,0,37.413892,-79.173390
 Saturday,786413,Twelfth St. (Eastbound Corner Of Taylor St.),1,3,3,55,0,37.407311,-79.149054
-Saturday,786447,Wards Rd. (Northbound In Front Of "Cash Loans On Car Titles"),2,1,3,58,0,37.368960,-79.183110
+Saturday,786447,Wards Rd. (Northbound In Front Of 'Cash Loans On Car Titles'),2,1,3,58,0,37.368960,-79.183110
 Saturday,786451,Wards Rd. (Northbound Starbucks),2,1,3,22,0,37.351508,-79.184180
 Saturday,788306,Greenwood Dr. (Eastbound Corner Of Perrymont Ave.),1,1,3,15,0,37.392266,-79.189341
 Saturday,2332129,Fifth St. (INBOUND Corner of Polk St.),1,2,3,51,0,37.413948,-79.152818
@@ -179,8 +179,8 @@ Saturday,785902,Campbell Ave. (Eastbound Corner Of Thirteenth St.),1,1,2,78,0,37
 Saturday,785911,Campbell Ave. (Westbound Corner Of Idaho Ave.),1,0,2,31,0,37.387119,-79.142925
 Saturday,785913,Campbell Ave. (Westbound Corner Of Mosby Ave.),2,0,2,35,0,37.391649,-79.147458
 Saturday,785914,Campbell Ave. (Westbound Corner Of Otey St.),1,1,2,36,0,37.392898,-79.148327
-Saturday,785919,Candler"s Mt. Rd. (Southbound Beginning Of Trbc Parking Lot),0,1,2,95,0,37.363571,-79.171497
-Saturday,785920,Candlers Mountain Rd. (Northbound Applebee"s),1,0,2,34,0,37.362283,-79.171467
+Saturday,785919,Candler's Mt. Rd. (Southbound Beginning Of Trbc Parking Lot),0,1,2,95,0,37.363571,-79.171497
+Saturday,785920,Candlers Mountain Rd. (Northbound Applebee's),1,0,2,34,0,37.362283,-79.171467
 Saturday,785925,Candlers Station Shopping Center (Dollar Movie Theater),1,2,2,90,0,37.358949,-79.169626
 Saturday,785927,Candlers Station Shopping Center (In Parking Lot),1,0,2,33,0,37.360942,-79.169413
 Saturday,785941,Chambers St. (Northbound Hunt St. Dearington Apartments),1,1,2,27,0,37.416398,-79.162925
@@ -240,7 +240,7 @@ Saturday,3463386,Bedford Ave and Rivermont Ave,1,1,2,26,0,37.428818,-79.154448
 Saturday,3463387,Buchanan and 11th St,1,2,2,40,0,37.405899,-79.154706
 Saturday,4223972,RIVERMONT AVE & COLUMBIA AVE,2,1,2,20,0,37.436890,-79.165250
 Saturday,785817,16th St. & Grace St. (Outbound),0,0,1,46,0,37.405417,-79.143921
-Saturday,785831,Atherholt Rd. (Eastbound New Doctor"s Office Next To Piedmont Eye Center),1,0,1,38,0,37.408985,-79.175899
+Saturday,785831,Atherholt Rd. (Eastbound New Doctor's Office Next To Piedmont Eye Center),1,0,1,38,0,37.408985,-79.175899
 Saturday,785836,Bedford Ave. (Eastbound Corner Of Fauquier St.),1,0,1,25,0,37.430288,-79.158345
 Saturday,785838,Bedford Ave. (Eastbound Corner Of Loudon St.),1,0,1,21,0,37.432214,-79.162509
 Saturday,785840,Bedford Ave. (Inbound Corner Of Dinwiddie St.),1,0,1,26,0,37.429328,-79.155818
@@ -288,7 +288,7 @@ Saturday,786058,Fort Ave. (Westbound Across From Fenwick Dr.),0,1,1,32,0,37.3687
 Saturday,786059,Fort Ave. (Westbound Across From Rutherford St.),1,0,1,134,0,37.391759,-79.170773
 Saturday,786060,Fort Ave. (Westbound Across From Spring Hill City Cemetary),1,0,1,130,0,37.397714,-79.164469
 Saturday,786067,Fort Ave. (Westbound Johnson Rd.),1,0,1,143,0,37.382330,-79.180732
-Saturday,786072,Fort Ave. (Westbound Tolley"s" Ln.),0,1,1,143,0,37.380894,-79.181999
+Saturday,786072,Fort Ave. (Westbound Tolley's' Ln.),0,1,1,143,0,37.380894,-79.181999
 Saturday,786077,Grace St. (Eastbound Across Street From Maple St.),0,1,1,47,0,37.402142,-79.138497
 Saturday,786081,Grace St. (Southbound Corner Of 17Th St.),1,1,1,46,0,37.405054,-79.143657
 Saturday,786101,HILL ST & LANGHORNE RD (INBO,1,0,1,62,0,37.413600,-79.185970
@@ -353,7 +353,7 @@ Saturday,4146994,LAKESIDE DR/FOREST HILL CEME,0,1,1,61,0,37.398730,-79.215080
 Saturday,4148399,OLD FOREST RD/LYNCHBURG GYNE,0,1,1,85,0,37.415400,-79.202800
 Saturday,785815,16th St. & Wise St. (Outbound),0,0,0,46,0,37.403425,-79.147370
 Saturday,785827,Atherholt Rd. (Culdesac New Orthopedic Center),0,0,0,37,0,37.407781,-79.178222
-Saturday,785830,Atherholt Rd. (Eastbound New Doctor"s Office Across From Surgery Center),0,0,0,37,0,37.408142,-79.177442
+Saturday,785830,Atherholt Rd. (Eastbound New Doctor's Office Across From Surgery Center),0,0,0,37,0,37.408142,-79.177442
 Saturday,785832,Atherholt Rd. (Westbound New Surgery Center),0,0,0,37,0,37.408498,-79.177082
 Saturday,785835,Bedford Ave. (Eastbound Corner Of Birch St.),0,0,0,21,0,37.433523,-79.164778
 Saturday,785844,Bedford Ave. (Westbound Corner Of Dinwiddie St.),0,0,0,37,0,37.429716,-79.156471
@@ -402,14 +402,14 @@ Saturday,786068,Fort Ave. (Westbound Lindsay St.),0,0,0,143,0,37.378006,-79.1845
 Saturday,786074,Fort Hill (Westbound Marathon Gas Station Right Past Fort Hill Shopping Center),0,0,0,2,0,37.371127,-79.195975
 Saturday,786105,Hillcrest Ave. (Westbound Corner Of Page St.),0,0,0,31,0,37.412150,-79.166352
 Saturday,786108,Lakeside Dr. (Eastbound Across From Little Dickens Bookstore),0,0,0,7,0,37.399100,-79.210324
-Saturday,786109,Lakeside Dr. (Eastbound Across From Ralph"s Green Grocery Stand),0,0,0,11,0,37.401564,-79.200158
+Saturday,786109,Lakeside Dr. (Eastbound Across From Ralph's Green Grocery Stand),0,0,0,11,0,37.401564,-79.200158
 Saturday,786111,Lakeside Dr. (Eastbound Across From Zip Gas),0,0,0,7,0,37.398070,-79.217919
 Saturday,786112,Lakeside Dr. (Eastbound Corner Of Faculty Dr.),0,0,0,11,0,37.401695,-79.190078
 Saturday,786113,Lakeside Dr. (Eastbound Corner Of Hood St.),0,0,0,12,0,37.402560,-79.179461
 Saturday,786117,Lakeside Dr. (Eastbound Moose Lodge),0,0,0,7,0,37.398561,-79.215524
 Saturday,786120,Lakeside Dr. (Outbound Corner Of Whitehall Rd.),0,0,0,60,0,37.397823,-79.219984
 Saturday,786123,Lakeside Dr. (Westbound Corner Of Demott St.),0,0,0,65,0,37.401804,-79.189746
-Saturday,786128,Lakeside Dr. (Westbound Veteren"s Affairs),0,0,0,65,0,37.401468,-79.200595
+Saturday,786128,Lakeside Dr. (Westbound Veteren's Affairs),0,0,0,65,0,37.401468,-79.200595
 Saturday,786133,Langhorne Ln. (Eastbound Corner Of Eldon St.),0,0,0,17,0,37.397231,-79.172145
 Saturday,786134,Langhorne Ln. (Eastbound Corner Of Wilson Ave.),0,0,0,17,0,37.397002,-79.173426
 Saturday,786135,Langhorne Ln. (Eastbound Corner Of Wingfield Ave.),0,0,0,17,0,37.396448,-79.177223
