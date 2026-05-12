@@ -1,5 +1,5 @@
-Day of Week,Stop ID,Stop Name,Total On,Total Off,Total Activity,Cumulative Load,Wheelchair
-,,,,,,,
+Day of Week,Stop ID,Stop Name,Total On,Total Off,Total Activity,Cumulative Load,Wheelchair,Lat,Lon
+,,,,,,,,,
 Sunday,4230397,KEMPER STREET TRANSFER CENTE,245,256,501,298,17,37.408360,-79.149440
 Sunday,786231,Old Forest Rd. (Walmart Stop),44,38,82,60,2,37.410413,-79.210715
 Sunday,786288,River Ridge Mall Stop,17,24,41,82,2,37.363409,-79.180246

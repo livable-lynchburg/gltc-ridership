@@ -1,5 +1,5 @@
-Day of Week,Stop ID,Stop Name,Total On,Total Off,Total Activity,Cumulative Load,Wheelchair
-,,,,,,,
+Day of Week,Stop ID,Stop Name,Total On,Total Off,Total Activity,Cumulative Load,Wheelchair,Lat,Lon
+,,,,,,,,,
 Weekday,4230397,KEMPER STREET TRANSFER CENTE,670,671,1341,798,40,37.408360,-79.149440
 Weekday,786231,Old Forest Rd. (Walmart Stop),99,88,186,147,8,37.410413,-79.210715
 Weekday,786263,Buchanan St. ( Outbound From The Transfer Station),45,45,90,362,3,37.407462,-79.156373
